@@ -20,3 +20,11 @@ pnpm-debug.log*
 
 # misc
 *.tsbuildinfo
+
+# raw data / temp files
+*.raw.txt
+*.pdf
+capture.mjs
+screenshots.mjs
+more_101.json
+remaining_101.json
