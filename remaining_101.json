@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ryo_nens_clear_realization",
+    "title": {"en": "Ryo-Nen's Clear Realization"},
+    "text": {"en": "The Buddhist nun, known as Ryo-Nen, was born in 1797. She was a granddaughter of the famous Japanese warrior, Shingen. Her poetical genius and alluring beauty were such that at seventeen she was serving the Empress as one of the ladies of the Court. Even at such a youthful age fame awaited her. The beloved Empress died suddenly and Ryo-Nen's hopeful dreams vanished. She became acutely aware of the impermanency of life in this world. It was then that she desired to study Zen. Her relatives, however, disagreeing, practically forced her into marriage. With a promise that she might become a nun after she had borne three children, Ryo-Nen assented. Before she was twenty-five she had accomplished this condition. Then her husband and relatives could no longer dissuade her from her desire. She shaved her head, took the name of Ryo-Nen which means to realize clearly and started on her pilgrimage. She came to the city of Edo and asked Tetsu-Gyu to accept her as a disciple. At one glance the master rejected her because she was too beautiful. Ryo-Nen then went to another master, Haku-Wo. Haku-Wo refused her for the same reason, saying that her beauty would only make trouble. Ryo-Nen obtained a hot iron and placed it against her face. In a few moments her beauty had vanished forever. Haku-Wo then accepted her as a disciple. When Ryo-Nen was about to pass from this world, she wrote a poem: 'Sixty-six times have these eyes beheld the changing scene of Autumn. I have said enough about moonlight. Ask no more. Only listen to the voice of pines and cedars when no wind stirs.'"},
+    "author": "Ryo-Nen",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Rinzai Zen",
+    "originalLanguage": "en",
+    "depth": "short",
+    "weather": ["fog"],
+    "state": ["struggling"],
+    "focus": ["myself"]
+  },
+  {
+    "id": "ka_san_sweat",
+    "title": {"en": "Ka-San Sweat"},
+    "text": {"en": "Ka-San was asked to officiate at the funeral of a provincial lord. He had never met lords and nobles before, so he was nervous. When the ceremony started, Ka-San sweat. Afterwards when he had returned he gathered his pupils together. Ka-San confessed that he was not yet qualified to be a teacher, for he lacked the sameness of bearing in the world of fame that he possessed in the secluded temple. Then Ka-San resigned and became the pupil of another master. Eight years later he returned to his former pupils, enlightened."},
+    "author": "Ka-San",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Zen",
+    "originalLanguage": "en",
+    "depth": "line",
+    "weather": ["rain"],
+    "state": ["struggling"],
+    "focus": ["myself"]
+  },
+  {
+    "id": "to_suis_vinegar",
+    "title": {"en": "To-Sui's Vinegar"},
+    "text": {"en": "To-Sui was the Zen master who left the formalism of temples to live under a bridge with beggars. When he was getting very old, a friend helped him to earn his living without begging. He showed To-Sui how to collect rice and manufacture vinegar from it, and To-Sui did this until he passed away. While To-Sui was making vinegar, one of the beggars gave him a picture of the Buddha. To-Sui hung it on the wall of his hut and put a sign beside it. It read: 'Mr. Amida Buddha: This little room is quite narrow. I can let you remain as a transient. But do not think I am asking you to help me to be reborn in your paradise.'"},
+    "author": "To-Sui",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Zen",
+    "originalLanguage": "en",
+    "depth": "line",
+    "weather": ["rain"],
+    "state": ["finding"],
+    "focus": ["myself"]
+  },
+  {
+    "id": "the_last_rap",
+    "title": {"en": "The Last Rap"},
+    "text": {"en": "Tanzan wrote sixty postcards on the last day of his life. He asked a messenger to mail them. Then he passed away. The cards read: 'I am departing from this world. This is my last announcement. Tanzan. July 27, 1892.'"},
+    "author": "Tanzan",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Rinzai Zen",
+    "originalLanguage": "en",
+    "depth": "line",
+    "weather": ["fog"],
+    "state": ["finding"],
+    "focus": ["myself"]
+  },
+  {
+    "id": "what_are_you_doing_what_are_you_saying",
+    "title": {"en": "What Are You Doing! What Are You Saying!"},
+    "text": {"en": "A Zen master named Kyogen said: 'Zen is like a man hanging in a tree by his teeth over a precipice. His hands grasp no branch, his feet rest on no limb, and under the tree another person asks him: Why did Bodhidharma come to China from India? If the man in the tree does not answer, he fails, and if he does answer, he falls and loses his life. Now what shall he do?' A student raised his hand and said: 'Master, may I ask a question?' Kyogen said: 'Go ahead.' The student said: 'What would you have done?' Kyogen laughed. 'I would not have climbed the tree in the first place,' he said."},
+    "author": "Kyogen",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Rinzai Zen",
+    "originalLanguage": "en",
+    "depth": "line",
+    "weather": ["storm"],
+    "state": ["struggling"],
+    "focus": ["myself"]
+  },
+  {
+    "id": "true_friends",
+    "title": {"en": "True Friends"},
+    "text": {"en": "A Zen student came to Bankei and said: 'Master, I have an ungovernable temper. How can I cure it?' 'You have something very strange,' said Bankei. 'Let me see what you have.' 'Just now I cannot show it to you,' replied the student. 'When can you show it to me?' asked Bankei. 'It arises unexpectedly,' replied the student. 'Then,' concluded Bankei, 'it must not be your own true nature. If it were, you could show it to me at any time. When you were born you did not have it, and your parents did not give it to you. Think that over.'"},
+    "author": "Bankei",
+    "source": "101 Zen Stories (1919), compiled by Nyogen Senzaki & Paul Reps",
+    "tradition": "Rinzai Zen",
+    "originalLanguage": "en",
+    "depth": "line",
+    "weather": ["clear"],
+    "state": ["finding"],
+    "focus": ["myself"]
+  }
+]
