@@ -35,20 +35,6 @@ const STEPS = [
   { field: 'depth', ns: 'depth', options: DEPTHS } as StepDef<'depth'>,
 ];
 
-/**
- * Map each weather value to its position in the radial layout:
- *   Top:      Fog
- *   Upper-L:  Rain       Upper-R: Wind
- *   Lower-L:  Storm      Lower-R: Clear Sky
- */
-const WEATHER_RADIAL_POS: Record<string, string> = {
-  fog:   'pos-top',
-  rain:  'pos-upper-left',
-  wind:  'pos-upper-right',
-  storm: 'pos-lower-left',
-  clear: 'pos-lower-right',
-};
-
 export default function Flow() {
   const { t } = useI18n();
   const navigate = useNavigate();
@@ -59,7 +45,6 @@ export default function Flow() {
   const step = STEPS[index];
   const isLast = index === total - 1;
   const isWeatherStep = step.field === 'weather';
-
 
   const advance = () => {
     if (isLast) navigate('/results');
@@ -87,22 +72,8 @@ export default function Flow() {
       </h2>
 
       {isWeatherStep ? (
-        /* ── Weather step: radial Zen composition ── */
-        <div className="weather-radial" role="group" aria-labelledby="flow-question">
-          {/* Central Enso — decorative only, not interactive */}
-          <div className="weather-radial__enso" aria-hidden="true">
-            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" className="weather-radial__enso-svg">
-              <path
-                d="M 30 100 C 30 50, 60 20, 100 20 C 140 20, 170 50, 170 100 C 170 150, 140 180, 100 180 C 60 180, 30 150, 30 100 Z"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.2"
-                strokeLinecap="round"
-              />
-            </svg>
-            <span className="weather-radial__enso-label">Внутрішня погода</span>
-          </div>
-
+        /* ── Weather step: horizontal gallery (desktop/tablet) ── */
+        <div className="weather-gallery" role="group" aria-labelledby="flow-question">
           {WEATHERS.map((opt) => (
             <OptionCard
               key={opt}
@@ -110,7 +81,7 @@ export default function Flow() {
               selected={current === opt}
               icon={<WeatherIcon weather={opt as Weather} />}
               onSelect={() => choose(opt)}
-              className={`weather-radial__card weather-radial__card--${WEATHER_RADIAL_POS[opt] ?? ''}`}
+              className="weather-gallery__card"
             />
           ))}
         </div>
