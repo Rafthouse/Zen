@@ -89,8 +89,9 @@ raw.forEach((k, i) => {
   checkEnumArray(k.focus, FOCUSES, `${at}.focus`);
 
   // Coverage stats (non-fatal): how many koans carry each language.
+  // Empty strings ("") do NOT count as a translation.
   if (k.text && typeof k.text === 'object') {
-    for (const l of LANGS) if (typeof k.text[l] === 'string') langCoverage[l] += 1;
+    for (const l of LANGS) if (typeof k.text[l] === 'string' && k.text[l].trim().length > 0) langCoverage[l] += 1;
   }
 });
 
