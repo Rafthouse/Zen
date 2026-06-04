@@ -24,9 +24,10 @@ and gain new languages **without any change to application logic**.
   "id": "empty_cup",            // string, unique, stable. Used for URLs + favorites.
   "title": {                    // LocalizedText — "en" is REQUIRED, others optional.
     "en": "A Cup of Tea",
-    "uk": "Чашка чаю",          // any subset of: uk | en | fr | ja (+ future codes)
+    "uk": "Чашка чаю",          // any subset of: uk | en | fr | ja | pl (+ future codes)
     "fr": "Une tasse de thé",
-    "ja": "一杯の茶"
+    "ja": "一杯の茶",
+    "pl": "Filiżanka herbaty"
   },
   "text": {                     // LocalizedText — the body. "en" is REQUIRED.
     "en": "Nan-in ...\nLike this cup ...",   // \n separates paragraphs
@@ -35,7 +36,7 @@ and gain new languages **without any change to application logic**.
   "author": "Nan-in",           // string. Use "Unknown" / a tradition name if unknown.
   "source": "101 Zen Stories (1919) ...",    // string, REQUIRED, always shown.
   "tradition": "Japanese Zen",  // string, optional.
-  "originalLanguage": "en",     // one of: uk | en | fr | ja. The language it was recorded in.
+  "originalLanguage": "en",     // one of: uk | en | fr | ja | pl. The language it was recorded in.
   "originalText": "趙州 ...",    // string, optional. The verbatim original; never overwritten.
 
   // ---- matching tags ----

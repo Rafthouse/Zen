@@ -16,7 +16,7 @@ import { dirname, resolve } from 'node:path';
 const here = dirname(fileURLToPath(import.meta.url));
 const file = resolve(here, '../src/data/koans.json');
 
-const LANGS = ['uk', 'en', 'fr', 'ja'];
+const LANGS = ['uk', 'en', 'fr', 'ja', 'pl'];
 const WEATHERS = ['fog', 'rain', 'wind', 'clear', 'storm'];
 const STATES = ['searching', 'waiting', 'struggling', 'losing', 'finding'];
 const FOCUSES = ['myself', 'other', 'work', 'future', 'past'];
