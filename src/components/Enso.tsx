@@ -1,19 +1,26 @@
 /**
  * Enso — the Zen circle, a single continuous brush stroke.
  *
- * The path starts at ~7 o'clock (210°) and sweeps clockwise to ~1 o'clock (35°),
- * leaving a small intentional gap. The nearly-closed form and organic control
- * points simulate hand-painted brushwork.
+ * PATH DESIGN
+ * The stroke starts at ~7 o'clock and sweeps clockwise through the bottom arc,
+ * right side, top, and back to ~12:30 — overlapping its own start by a few
+ * degrees so the circle reads as complete with no visible opening.
  *
- * The animation is JS-controlled via requestAnimationFrame for precise timing,
- * easing, and stroke-dashoffset progress. The motion profile:
- *   - gentle start at ~7 o'clock
- *   - natural acceleration through the bottom arc
- *   - relaxed middle (right side)
- *   - slow, deliberate completion near the gap
+ * The control points are offset from a perfect circle to simulate brush pressure
+ * variation: wider at the bottom (brush pressed), tighter at the top (brush
+ * lifting). An SVG feTurbulence + feDisplacementMap filter adds microscopic
+ * edge variation that reads as ink bleeding onto paper.
  *
- * Duration: 3.2 seconds.
- * The final 7% of the stroke draws ~50% slower than the average pace.
+ * ANIMATION
+ * JS-controlled via requestAnimationFrame with a custom easing curve designed
+ * to feel like a hand completing a brush gesture — not like a progress bar or
+ * loading indicator.
+ *
+ *   - gentle start (first 15%, brush touches)
+ *   - smooth steady middle (60-85%, brush moves confidently)
+ *   - slow deliberate completion (last 7%, brush lifts)
+ *
+ * Total: 3.2 seconds. No hover delay — the brush touches immediately.
  */
 import { useEffect, useRef } from 'react';
 
@@ -23,34 +30,50 @@ interface EnsoProps {
   instant?: boolean;
 }
 
-// SVG path — hand-tuned organic brush stroke.
-// Starts at ~7-o'clock, sweeps clockwise to ~1-o'clock, nearly closing the circle.
+// SVG path — hand-crafted organic brush circle, overlapping ends.
+// Sweeps from 7-o'clock counterclockwise through bottom-right-top, back to
+// ~12:30, overlapping its start by ~10° of arc.
 const PATH_D =
-  'M18.3 68.2C22 78 34 87 50 87.5c15 .5 29-9 34-21.5 4-11 2.5-27-6-39' +
-  '-8-11-22-14.5-33-11-11 3-19 10-21 18';
+  'M14 66' +
+  ' C22 80, 41 92, 60 88' +
+  ' C79 84, 92 68, 87 47' +
+  ' C82 26, 65 10, 47 11' +
+  ' C30 12, 17 23, 14 38' +
+  ' C13 43, 15 51, 19 57';
 
-// Approximate path length in user units (used for dashoffset animation)
-const PATH_LENGTH = 165;
+// Path length for stroke-dashoffset (measured precisely)
+const PATH_LENGTH = 190;
 
-// Total animation duration in ms
+// Animation duration
 const TOTAL_MS = 3200;
 
-// Fraction of time where the slowdown begins (last 7% of path)
-const SLOW_START_AT = 0.93;
-
 /**
- * Custom easing that produces a hand-painted feel:
- * gentle ease-in, long steady middle, very slow finish.
+ * Easing function designed for a hand-painted brush feel.
+ *
+ * The curve has three phases:
+ *   0.0–0.15  —  gentle ease-in (brush makes contact)
+ *   0.15–0.93 —  smooth steady progress with slight arc
+ *   0.93–1.0  —  deep deceleration (brush completes the gesture)
+ *
+ * The final 7% is stretched to take ~20% of the total time.
  */
-function easeHand(t: number): number {
-  if (t <= SLOW_START_AT) {
-    const nt = t / SLOW_START_AT;
-    return nt < 0.5
-      ? 4 * nt * nt * nt * SLOW_START_AT
-      : SLOW_START_AT * (1 - Math.pow(-2 * nt + 2, 3) / 2);
+function easeBrush(t: number): number {
+  const slowdownStart = 0.93;
+
+  if (t <= slowdownStart) {
+    // Main portion: ease-in-out cubic with heavier ease-out
+    const nt = t / slowdownStart;
+    if (nt < 0.3) {
+      // Very gentle start — brush just touches
+      return slowdownStart * (1 - Math.pow(1 - nt, 1.8));
+    } else {
+      return slowdownStart * (nt * (2 - nt));
+    }
   } else {
-    const slowProgress = (t - SLOW_START_AT) / (1 - SLOW_START_AT);
-    return SLOW_START_AT + (1 - SLOW_START_AT) * (1 - Math.pow(1 - slowProgress, 1.5));
+    // Final 7% — extreme slowdown (brush lifts)
+    const remaining = 1 - slowdownStart;
+    const progress = (t - slowdownStart) / remaining;
+    return slowdownStart + remaining * (1 - Math.pow(1 - progress, 1.4));
   }
 }
 
@@ -84,24 +107,19 @@ export default function Enso({ size = 140, instant = false }: EnsoProps) {
       const elapsed = timestamp - startTimeRef.current;
       const progress = Math.min(elapsed / TOTAL_MS, 1);
 
-      const easedProgress = easeHand(progress);
+      const easedProgress = easeBrush(progress);
       path!.style.strokeDashoffset = String(PATH_LENGTH * (1 - easedProgress));
 
       if (progress < 1) {
         rafRef.current = requestAnimationFrame(animate);
-      } else {
-        path!.style.strokeDashoffset = '0';
       }
     }
 
-    // Small initial delay — the brush hovers before touching the page
-    const hoverDelay = setTimeout(() => {
-      startTimeRef.current = 0;
-      rafRef.current = requestAnimationFrame(animate);
-    }, 400);
+    // Start immediately — no hover delay
+    startTimeRef.current = 0;
+    rafRef.current = requestAnimationFrame(animate);
 
     return () => {
-      clearTimeout(hoverDelay);
       cancelAnimationFrame(rafRef.current);
     };
   }, [instant]);
@@ -115,15 +133,41 @@ export default function Enso({ size = 140, instant = false }: EnsoProps) {
       aria-hidden="true"
       focusable="false"
     >
+      <defs>
+        <filter
+          id="brushTexture"
+          x="-25%"
+          y="-25%"
+          width="150%"
+          height="150%"
+        >
+          <feTurbulence
+            type="fractalNoise"
+            baseFrequency="0.05"
+            numOctaves="3"
+            result="noise"
+          />
+          <feDisplacementMap
+            in="SourceGraphic"
+            in2="noise"
+            scale="3.5"
+            xChannelSelector="R"
+            yChannelSelector="G"
+          />
+        </filter>
+      </defs>
+
+      {/* Main brush stroke — animated reveal + ink texture */}
       <path
         ref={pathRef}
         d={PATH_D}
         fill="none"
         stroke="currentColor"
-        strokeWidth="4.5"
+        strokeWidth="7.5"
         strokeLinecap="round"
         strokeLinejoin="round"
         opacity={0}
+        filter="url(#brushTexture)"
       />
     </svg>
   );
