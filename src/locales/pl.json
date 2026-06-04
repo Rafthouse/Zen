@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "Zen w każdej chwili",
+    "tagline": "Cichy czytelnik dawnych nauk.",
+    "begin": "Rozpocznij"
+  },
+  "nav": {
+    "back": "Wstecz",
+    "next": "Dalej",
+    "skip": "Pomiń",
+    "home": "Strona główna",
+    "favorites": "Zapisane",
+    "startOver": "Zacznij od nowa",
+    "randomKoan": "Losowa nauka",
+    "dailyKoan": "Nauka dnia"
+  },
+  "step": {
+    "counter": "Krok {n} z {total}"
+  },
+  "weather": {
+    "question": "Wewnętrzna pogoda",
+    "fog": "Mgła",
+    "rain": "Deszcz",
+    "wind": "Wiatr",
+    "clear": "Czyste niebo",
+    "storm": "Burza"
+  },
+  "state": {
+    "question": "Co się dzieje?",
+    "searching": "Poszukiwanie",
+    "waiting": "Oczekiwanie",
+    "struggling": "Walka",
+    "losing": "Strata",
+    "finding": "Odnalezienie"
+  },
+  "focus": {
+    "question": "Gdzie jest twoja uwaga?",
+    "myself": "Ja sam",
+    "other": "Inna osoba",
+    "work": "Praca",
+    "future": "Przyszłość",
+    "past": "Przeszłość"
+  },
+  "depth": {
+    "question": "Ile przeczytasz?",
+    "line": "Jeden wers",
+    "short": "Krótka historia",
+    "koan": "Pełny koan"
+  },
+  "results": {
+    "title": "Trzy nauki",
+    "see": "Co widzisz teraz",
+    "unseen": "Czego możesz nie widzieć",
+    "release": "Co możesz puścić",
+    "empty": "Żadna nauka nie odpowiedziała. Zacznij od nowa lub przeczytaj losową.",
+    "open": "Czytaj"
+  },
+  "koan": {
+    "by": "—",
+    "source": "Źródło",
+    "tradition": "Tradycja",
+    "original": "Oryginał",
+    "translationUnavailable": "Tłumaczenie niedostępne – pokazano w języku angielskim.",
+    "addFavorite": "Zapisz naukę",
+    "removeFavorite": "Puść naukę",
+    "back": "Wstecz"
+  },
+  "favorites": {
+    "title": "Zapisane nauki",
+    "empty": "Na razie nic nie zapisano. Tutaj spoczną rzeczy, które zachowasz."
+  },
+  "theme": {
+    "toLight": "Jasny",
+    "toDark": "Ciemny",
+    "label": "Zmień motyw"
+  },
+  "language": {
+    "label": "Język"
+  }
+}

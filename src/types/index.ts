@@ -10,7 +10,7 @@
  */
 
 /** Supported interface + content languages. Add new codes here only. */
-export type LanguageCode = 'uk' | 'en' | 'fr' | 'ja';
+export type LanguageCode = 'uk' | 'en' | 'fr' | 'ja' | 'pl';
 
 /** The four supported languages, in display order. */
 export const LANGUAGES: { code: LanguageCode; label: string }[] = [
@@ -18,6 +18,7 @@ export const LANGUAGES: { code: LanguageCode; label: string }[] = [
   { code: 'en', label: 'English' },
   { code: 'fr', label: 'Français' },
   { code: 'ja', label: '日本語' },
+  { code: 'pl', label: 'Polski' },
 ];
 
 /** The language used as a fallback when a translation is missing. */

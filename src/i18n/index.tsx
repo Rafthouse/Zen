@@ -19,6 +19,7 @@ import en from '@/locales/en.json';
 import uk from '@/locales/uk.json';
 import fr from '@/locales/fr.json';
 import ja from '@/locales/ja.json';
+import pl from '@/locales/pl.json';
 
 /**
  * Interface-translation layer.
@@ -27,7 +28,7 @@ import ja from '@/locales/ja.json';
  * (2) import + register it in the `BUNDLES` map below, (3) add its code to
  * `LANGUAGES` in /src/types. No component or logic changes are needed.
  */
-const BUNDLES: Record<LanguageCode, Record<string, unknown>> = { en, uk, fr, ja };
+const BUNDLES: Record<LanguageCode, Record<string, unknown>> = { en, uk, fr, ja, pl };
 
 const STORAGE_KEY = 'zen.lang';
 
