@@ -14,12 +14,8 @@ import {
 } from '@/types';
 
 /**
- * The four-step flow, rendered as turning pages. Each step is described
- * declaratively below — its dimension key, the options, and how to label them —
- * so adding or reordering a step is a data change, not new control flow.
- *
- * `field` is the key written into the shared Selection; `ns` is the i18n
- * namespace used for both the question and each option label.
+ * The four-step flow, rendered as turning pages. Each step uses a unified
+ * grid layout so weather / state / focus all look visually identical.
  */
 interface StepDef<K extends keyof Selection> {
   field: K;
@@ -27,7 +23,6 @@ interface StepDef<K extends keyof Selection> {
   options: NonNullable<Selection[K]>[];
 }
 
-// A tuple of steps, each preserving its own key type.
 const STEPS = [
   { field: 'weather', ns: 'weather', options: WEATHERS } as StepDef<'weather'>,
   { field: 'state', ns: 'state', options: STATES } as StepDef<'state'>,
@@ -56,7 +51,6 @@ export default function Flow() {
     else setIndex((i) => i - 1);
   };
 
-  // Selecting an option records it and, for a calm single-tap rhythm, moves on.
   const choose = (value: string) => {
     setField(step.field, value as never);
     window.setTimeout(advance, 180);
@@ -71,34 +65,18 @@ export default function Flow() {
         {t(`${step.ns}.question`)}
       </h2>
 
-      {isWeatherStep ? (
-        /* ── Weather step: horizontal gallery (desktop/tablet) ── */
-        <div className="weather-gallery" role="group" aria-labelledby="flow-question">
-          {WEATHERS.map((opt) => (
-            <OptionCard
-              key={opt}
-              label={t(`${step.ns}.${opt}`)}
-              selected={current === opt}
-              icon={<WeatherIcon weather={opt as Weather} />}
-              onSelect={() => choose(opt)}
-              className="weather-gallery__card"
-            />
-          ))}
-        </div>
-      ) : (
-        /* ── Other steps: standard grid ── */
-        <div className="option-grid" role="group" aria-labelledby="flow-question">
-          {step.options.map((opt) => (
-            <OptionCard
-              key={opt}
-              label={t(`${step.ns}.${opt}`)}
-              selected={current === opt}
-              icon={undefined}
-              onSelect={() => choose(opt)}
-            />
-          ))}
-        </div>
-      )}
+      {/* Unified grid for all four steps */}
+      <div className="sel-grid" role="group" aria-labelledby="flow-question">
+        {step.options.map((opt) => (
+          <OptionCard
+            key={opt}
+            label={t(`${step.ns}.${opt}`)}
+            selected={current === opt}
+            icon={isWeatherStep ? <WeatherIcon weather={opt as Weather} /> : undefined}
+            onSelect={() => choose(opt)}
+          />
+        ))}
+      </div>
 
       <div className="flow__nav">
         <button type="button" className="text-link" onClick={back}>

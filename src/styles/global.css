@@ -249,19 +249,31 @@ h3:lang(ja) {
 
 .lang-switcher select {
   appearance: none;
-  background: transparent;
+  background: var(--paper);
   border: 1px solid var(--line);
   border-radius: 8px;
   color: var(--ink-soft);
   font-family: var(--sans);
   font-size: 0.9rem;
   padding: 0.35rem 0.6rem;
-  transition: color 0.25s var(--ease), border-color 0.25s var(--ease);
+  transition: color 0.25s var(--ease), border-color 0.25s var(--ease), background-color 0.25s var(--ease);
 }
 .lang-switcher select:hover,
 .lang-switcher select:focus-visible {
   color: var(--ink);
   border-color: var(--line-strong);
+}
+
+/* Dark theme customisation for the natively-rendered dropdown list.
+   Browsers expose limited styling ability, but setting background + color
+   on <option> elements ensures the dropdown menu inherits the theme. */
+.lang-switcher select option {
+  background: var(--paper-raised);
+  color: var(--ink);
+}
+.lang-switcher select option:hover {
+  background: var(--accent);
+  color: var(--paper);
 }
 
 .dot-sep {
@@ -341,11 +353,37 @@ h3:lang(ja) {
   margin: 0.4rem 0 var(--gap);
   font-size: clamp(1.8rem, 5vw, 2.6rem);
 }
-.option-grid {
+.sel-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
   gap: clamp(0.75rem, 2vw, 1.25rem);
 }
+
+@media (min-width: 1024px) {
+  .sel-grid {
+    grid-template-columns: repeat(5, 1fr);
+    gap: clamp(0.75rem, 1.5vw, 1.5rem);
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .sel-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.sel-grid .option-card {
+  transition:
+    border-color 250ms ease-out,
+    box-shadow 250ms ease-out,
+    transform 250ms ease-out;
+}
+.sel-grid .option-card.is-selected {
+  transform: scale(1.03);
+  border-color: var(--line-strong);
+  box-shadow: 0 8px 22px var(--shadow);
+}
+
 .flow__nav {
   display: flex;
   justify-content: space-between;
@@ -583,46 +621,6 @@ h3:lang(ja) {
   to {
     opacity: 1;
     transform: none;
-  }
-}
-
-/* =================================================================/* =========================================================================
-   Weather — Horizontal gallery (desktop/tablet)
-   ========================================================================= */
-.weather-gallery {
-  display: flex;
-  flex-direction: column;
-  gap: var(--gap);
-}
-
-@media (min-width: 1024px) {
-  .weather-gallery {
-    flex-direction: row;
-    justify-content: center;
-    align-items: stretch;
-    gap: clamp(0.75rem, 1.5vw, 1.5rem);
-    padding: 0.5rem 0;
-    margin: 0 auto;
-    max-width: 56rem;
-  }
-
-  .weather-gallery__card {
-    flex: 1 1 0;
-    min-width: 0;
-    max-width: 14rem;
-    min-height: 10rem;
-  }
-
-  .weather-gallery .option-card {
-    transition:
-      border-color 250ms ease-out,
-      box-shadow 250ms ease-out,
-      transform 250ms ease-out;
-  }
-  .weather-gallery .option-card.is-selected {
-    transform: scale(1.03);
-    border-color: var(--line-strong);
-    box-shadow: 0 8px 22px var(--shadow);
   }
 }
 @media (prefers-reduced-motion: reduce) {
