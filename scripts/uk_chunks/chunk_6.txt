@@ -1,0 +1,652 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 211 ---
+id: shoyo_34
+title: Fuketsu's "Speck of Dust"
+text:
+Fuketsu, giving instruction, said, “If one raises a speck of dust, the house and the nation prosper.  If one does not raise a speck of dust, they perish.”
+Setchô held up his staff and said, “Is there anyone who lives and dies with this?”
+
+A white-headed man rises from his angling by the Isui River87;
+The two brothers on Mt. Shuyô are starved for their purity88:  
+Which is what?
+It is a speck of dust, with different transformations;
+Fame and accomplishment:  neither will perish easily.
+--- КОАН 212 ---
+id: shoyo_35
+title: Rakuho's Obeisance
+text:
+Speedy action and swift speech shatter the assault of non-Buddhists as well as of heavenly devils.
+A master of surpassing caliber, transcending even the principle of his own school, condescends to help a student of excellent aspiration and of the sharpest wisdom.
+What if you meet a fellow who never turns his head even if he gets hit with a stick?
+
+Rakuho came to Kassan and without bowing stood facing him.  Kassan said, “A chicken dwells in the phoenix nest.  It's not of the same class.  Go away.”  Rakuho said, “I have come from far away, hearing much about you.  Please, Master, I beg you to guide me.”  Kassan said, “Before my eyes there is no you, and here there is no old monk89.”  Rakuho shouted, “Kaatzu!”  Kassan said, “Stop it, stop it.  Don't be so careless and hasty.  Clouds and the moon are the same; valleys and mountains are different from each other.  It is not difficult to cut off the tongues of the people under heaven.  But how can you make a tongueless person speak?”  Rakuho said nothing.  Kassan hit him.  With this, Rakuho started to obey Kassan.
+
+The red-tailed carp shakes its head and wags its tail;
+Totally independent, he knows how to act in complete agility.
+Even if he possesses the art to cut off tongues,
+He is pulled by the nose and led to real mystery.
+Outside the window screen, wind and moon are like day in the luminous night;
+In front of the withered tree, blossoms and grass are in eternal spring.
+O, a tongueless person, tongueless person!
+How fitting is the one phrase – a full manifestation of the absolute command.
+As one walks alone in one’s sovereign realm, all is perfectly clear.
+Well then, – let people under heaven stay merry and enjoy themselves!
+--- КОАН 213 ---
+id: shoyo_36
+title: Master Ba Is Ill
+text:
+Practicing Zen apart from mind and consciousness – still there is this;
+Learning beyond the paths of the ordinary and the holy – it is already too lofty.
+The scarlet furnace sends out barbed balls of iron;
+Even someone with the sword-like tongue and spear-like lips can hardly open up his mouth.
+Who does not run foul of the point of the sword?
+I will cite an example, look!
+
+Great Master Ba was seriously ill.  The temple steward asked him, “Master, how are you feeling these days?”  Great Master said, “Sun-faced Buddha, Moon-faced Buddha.”
+
+Sun-faced Buddha, Moon-faced Buddha –
+Stars shoot, thunder peals.
+The mirror renders images without ego;
+In a basin the ball rolls of itself.
+Don’t you see: in front of the hammer and the stand, gold purified a hundred times;
+Under the scissors and the measure, a roll of silk.
+--- КОАН 214 ---
+id: shoyo_37
+title: Isan's "Karma-Consciousness"
+text:
+Driving the plowman’s ox and dragging his nose around; 
+Robbing the hungry man of his food and grabbing his throat fast.  
+Is there anyone who can wield [such] a poisonous hand?
+
+Isan asked Kyôzan, “Suppose a man asks you, saying, 'All living beings are tossed in a vast karma-consciousness, and have no foundation to rely upon.'  How would you check him?”  Kyôzan said, “If such a monk appears, I call out to him, 'Mr. So-and-so!'  When he turns his head, instantly I say, 'What is this?'  If he hesitates, then I say to him, 'Not only is there a vast karma-consciousness, but also there is no foundation to rely upon.'“  Isan said, “Good.”
+
+One calls you, and you turn your head around—do you know your self or not?
+The full moon, shining vaguely through ivy, even becomes a crescent.
+The child of great riches is ruined a bit;
+Endlessly destitute, how sorrowful the person is!
+--- КОАН 215 ---
+id: shoyo_38
+title: Rinzai's "True Person"
+text:
+Taking a robber for your own child, taking a servant for the master:
+Could a broken ladle of wood ever be your ancestor’s skull?
+The saddle bone for a donkey could never be your father’s jawbone.
+When bestowing land with a new branch temple, how would you discern the master?
+
+Rinzai instructed his assembly and said, “There is one true person of no rank, always coming out and going in through the gates of your face90.  Beginners who have not yet witnessed that, look! look!”
+Then a monk came out and asked, “What is the one true person of no rank?”  Rinzai descended from the rostrum and grabbed him.  The monk hesitated.  Rinzai pushed him away and said, “The true person of no rank – what a shit-stick you are!”
+
+Delusion and enlightenment are two sides of the same coin;
+Transmission is subtle, and yet simple.
+When the spring wind once breezes, hundreds of flowers open;
+When the powerful person yanks once, nine bulls turn back.
+It cannot be helped:  mud and sand are removed, yet it does not open;
+The eye of the fountain is evidently blocked.
+If it suddenly burst open, the water would freely flow.
+The master also says, “Watch out!91”
+--- КОАН 216 ---
+id: shoyo_39
+title: Jôshû's "Wash Your Bowls"
+text:
+When rice comes, you open your mouth; 
+When sleep comes, you close your eyes.
+When you wash your face, you touch your nose;
+When you take up your straw sandals, you feel your feet.
+At those times, if you lose the koan, take a burning light and make a special search 
+in the deep night.  
+How can you find the right correspondence [with your real self]?
+
+A monk asked Jôshû, “I have just entered this monastery.  I beg you, Master, please give me instructions.”  Jôshû asked, “Have you eaten your rice gruel yet?”  The monk answered, “Yes, I have.”  Jôshû said, “Then wash your bowls.”
+
+Once the rice gruel is over, one tells to wash the bowls:
+The mind-ground clearly meets itself.
+And now, the practitioner of the monastery has finished learning:
+Tell me, is there enlightenment in there or not?
+--- КОАН 217 ---
+id: shoyo_40
+title: Unmon's "White and Black"
+text:
+Where the wheel of activities turns, even the wise eye is bewildered; 
+When the treasure mirror opens, no speck of dust ever passes.
+The fist opens, [yet] nothing falls to the ground;
+He knows well the time, according to the subject.
+When the two sword blades meet, how do they penetrate each other?
+
+Unmon asked Kempô, “May I ask for your answer92?”  Kempô said, “Have you ever come to this old monk or not?”  Unmon said, “If so, I must say I was too late.”  Kempô said, “Is that so, is that so!”  Unmon said, “I thought I was Marquis White, but I find that here is Marquise Black93.”
+
+The bowstring and the arrow-notch match each other;.
+Pearls in the net reflect one another infinitely.
+A hundred arrows shot, no arrows are wasted;
+All sceneries accommodated, the lights shine without impediment.
+Each utterance comprising all, one dwells in the perfect samadhi of leisureliness.
+Moving freely therein in particularity and equality;
+Nothing but complete freedom in all directions.
+--- КОАН 218 ---
+id: shoyo_41
+title: Rakuho at His Deathbed
+text:
+Sometimes one is sincere and faithful, distressing oneself;
+One’s suffering and pain is beyond words.
+Sometimes misfortune arises, people being devoid of comprehension.
+At the deathbed one condescends and retails cheaply:  at the very end one is most polite.
+Tears welling out of painful guts, it is impossible to hide any more.
+Now, is there anyone who has cold eyes?
+
+When he was about to die, Rakuho addressed his assembly and said, “I have one matter to ask you about.  If you say, 'It is this,' you are putting another head on your own.  If you say, 'It isn't this,' you are looking for life by cutting off your head.”  The head monk said, “'The green mountain always lifts up its legs; you don't need to carry a lantern in the daylight.'“94  Rakuho said, “What occasion is this to utter such a saying?”  A senior monk named Genjô stepped forward and said, “Apart from these two ways, I beg you, Master, not to ask.”  Rakuho said, “That's not enough.  Say some more.”  Genjô said, “I cannot say it fully.”  Rakuho said, “I don't care whether or not you can say it fully.”  Genjô said, “I feel just like ‘an attendant who has nothing to respond to his master’95.”
+That evening, Rakuho called Genjô to him and said, “Your response today had something quite reasonable.  You have to realize what our late master96 said, 'There are no dharmas before the eyes; [only] the consciousness is before the eyes.  It is not the Dharma before the eyes; It cannot be reached by eyes and ears.'  Which phrase is the guest?  Which phrase is the host?  If you can sort them out, I will transmit the bowl and robe to you.”  Genjô said, “I don't understand.”  Rakuho said, “You must understand.”  Genjô said, “I really don't understand.”  Rakuho shouted and said, “Miserable, miserable!”  
+[Another] monk asked, “What would you like to say, Master?”  Rakuho said, “The boat of compassion is not to be rowed97 over pure waves; it’s wasted labor releasing wooden geese down the precipitous strait98.”
+
+With the clouds as bait, with the moon as a hook, one fishes in the pure water;
+Old with age, solitary-hearted, one hasn’t caught a fish yet.
+After returning [to the common world, completing] the poem “Forsaking the Clamor”99:
+[Lo,] the only sober one upon the Bekira River100.
+--- КОАН 219 ---
+id: shoyo_42
+title: Nan'yô and the Water Jug
+text:
+Washing the meal bowls, pouring water into the jug: 
+These are all Dharma teaching and Buddha-work.
+Carrying firewood and transporting water:
+These are nothing but supernatural deeds and miraculous functions.  
+Why don't you understand the actions that emanate light and shake the earth?
+
+A monk asked National Teacher Chû of Nanyô, “What is the essential body101 of Vairocana Buddha102?”  National Teacher said, “Pass me that water jug.”  The monk passed him the water jug.  National Teacher said, “Put it back where it was.”  The monk asked again, “What is the essential body of Vairocana Buddha?”  National Teacher said, “The old Buddha is long gone.”
+
+Birds fly in the sky,
+Fish stay in the water:
+They have forgotten rivers and lakes,
+Have acquired their will in clouds and sky.
+If you have a single thread of doubting mind,
+You are already a thousand miles away from what you are facing.
+How many can appreciate the benevolence received and requite it?
+--- КОАН 220 ---
+id: shoyo_43
+title: Razan's "Appearing and Disappearing"
+text:
+One speck of a holy hermit's medicine changes iron into gold; 
+One word at logic's end renders an ordinary person to a sage.  
+If you learn that gold and iron are not two, 
+And that ordinary and sage are intrinsically the same, 
+Then you don't need that “one” after all.
+Just tell me, what is that “one” point?
+
+Razan asked Gantô, “What if things appear and disappear without ceasing?”  Gantô scolded him saying, “Who appears and disappears?”
+
+Cutting the old entangling vines,
+Smashing the fox's den –
+A leopard clothes himself with fog and changes its spots [as a tiger]103,
+A [serpent] alters his bones and, as a dragon, rides the thunder.
+Ha!  Appearing and disappearing in abundance – what is it?
+--- КОАН 221 ---
+id: shoyo_44
+title: Kôyô's "Suparnin"
+text:
+A lion strikes an elephant, Suparnin104 knocks down a dragon.
+Even flying creatures and running animals distinguish between lord and subject; 
+Patch-robed monks should learn to tell between guest and host.
+But how could you judge a person who dares to defy the heavenly authority?
+
+A monk asked Master Hô of Kôyô, “The great dragon has emerged from the ocean, calming heaven and earth.  How will you treat him when he suddenly appears before you?”  Master Hô said, “Suparnin, the king of birds, absorbs the entire universe.  Who can stick his head within him?”  The monk said, “But how about when he does appear?”  Hô said, “It is like a falcon catching a pigeon.  If you don't realize it, you will learn the truth through the 'inspection before the balcony.'105“  The monk said, “If so, then I'll fold my hands on my chest106 and retreat three steps.”  Hô said, “You black tortoise under the Sumeru altar.107  Don't wait to be struck on the forehead again and get hurt.”
+
+The imperial edict comes down, the command is released:
+The heartland is for the emperor, the border lands are for the generals.
+The roaring thunder does not wait for the dormant insects to wake up;
+How could one perceive that the wind stops the streaming clouds?
+Continuously looming and weaving: 
+Golden lines and jasper stripes naturally follow.
+Before [anything is] stamped, it's vast and empty; 
+Intrinsically there are no letters and characters at all.
+--- КОАН 222 ---
+id: shoyo_45
+title: Four Phrases from the Engaku Sutra
+text:
+That which exits now – manifestation of the essence108:  
+This all relies on the “right now.”
+The family tradition of the essential nature never plans to go beyond itself.
+If you forcibly creates burls and joints, and dare to resort to devices, 
+You do nothing but draw eyebrows on Mr. Chaos and put handles to your meal bowls.
+How could you attain peace at all?
+
+The Engaku109 Sutra says:  
+“At all times, you do not raise the delusive mind.
+When there are all kinds of illusory thoughts, you do not extinguish them.
+Dwelling in the delusory state of mind, you do not add understanding.
+Where there is no understanding, you do not distinguish the truth.”
+
+Stately and dignified, carefree and at ease.
+Stick your head amid the clamorous place, lower your feet amid the peaceful place. 
+The binding strings around the lower legs have disappeared:  I am free;
+The mud upon the nose top is gone – stop trying to chop it off110.
+Don't be troubled:  Medicine fixed according to a scrap of paper a thousand years ago111.
+--- КОАН 223 ---
+id: shoyo_46
+title: Tokusan's "Study Accomplished"
+text:
+The pure ground without an inch of grass for ten thousand miles still deludes people;
+The clear sky without a speck of could in eight directions still deceives you.
+Even if one removes a wedge by [driving in] another wedge, 
+It does not avoid sustaining emptiness by using emptiness.
+Observe well a special method – a hammer upon the back of the head!
+
+Great Master Tokusan Emmyô112 instructed his assembly and said, “If you have exhausted to the end, you will realize right away that all buddhas in the three worlds have stuck their mouths to the wall113.  Yet there is still one person, who is giving a great laugh.  If you can recognize that person, your Zen study has been accomplished.”
+
+Gathering in – holding fast the throat:
+Winds polish, clouds wipe; the water is cool, the sky is autumn.
+Never say the brocade-scaled fish has no good taste:
+One hook of the moon fishes out [the waters of] the Sôrô River.114.
+--- КОАН 224 ---
+id: shoyo_47
+title: Jôshû's "Oak Tree in the Garden"
+text:
+The oak tree there in the garden, the flag on the pole blown in the wind –
+It is like one flower preaching the boundless spring,
+Like one drop of water revealing the waters of the great ocean.
+The ancient buddha, born once in 500 years, goes way beyond the ordinary currents.
+Not falling into words and thoughts, how could you understand the speech?
+
+A monk asked Jôshû, “What is the meaning of the patriarch's coming from the West?”  Jôshû said, “The oak tree there in the garden.”
+
+The banks [are his] eyebrows 
+	Holding snow;
+The river [is his] eyes
+	Containing autumn;
+The ocean [is his] mouth 
+	Drumming the waves;
+The ship [is his] tongue
+	Beaming with the streams.
+The hand that weeps out disorders,
+The staff that brings peace.
+Old Jôshû, old Jôshû!
+Monasteries are disturbed, never coming to rest;
+In vain you expend devices, making carts and fitting them to the grooves;
+Without art it intrinsically covers the valleys and fills the trenches.
+--- КОАН 225 ---
+id: shoyo_48
+title: Vimalakirti's "Not-Two"
+text:
+Even if one's action is so free in all directions, 
+There's a spot where one cannot start a thing at all;
+Even if one's eloquence knows no hindrance, 
+There is a time one cannot even open up the mouth.
+Just as Ryûge, a man of no hand, hit with a hand, 
+So did Kasan make a tongueless person speak.
+Who is the one who can place oneself in the Middle Way?
+
+Vimalakirti115 asked Manjusri, “What does it mean that the Bodhisattva enters the Dharma-gate of Not-Two?”  Manjusri said, “I see it like this:  In all phenomena, there are neither words nor explanations, neither presentations nor knowledge; it is beyond all questions and answers.  That is what I understand with 'to enter the Dharma-gate of Not-Two'.”
+Then Manjusri asked Vimalakirti, “All of us have finished giving our explanations. Now you should give your explanation.  What does it mean that the Bodhisattva enters the Dharma-gate of Not-Two?”  
+Vimalakirti remained silent.
+
+Manjusri asks about the illness of the Old Bina116;
+The gate of Not-Two opens, and one sees the adepts.
+A rugged stone on the surface, a pure stone inside—who could appreciate it?
+Forgetting and losing what is before and after oneself—do not lament.
+Humbly presenting the gem that looked like a stone,
+The man had his foot tendons cut off in the court yard of So117;
+The snake, once wounded, gives thanks with a shining gem in the castle of Zui
+ [ –, only to arouse antagonism]118.
+Stop checking, it has no flaws whatsoever:
+When the vulgar mind is all gone, it can be the real thing a little.
+--- КОАН 226 ---
+id: shoyo_49
+title: Tôzan and the Memorial Service
+text:
+However hard one may try, 
+It can never be depicted, it can never be drawn.
+Fuke made a somersault119, Ryûge exposed only half his body120.
+After all, what is the appearance of that One?
+
+When Tôzan held a memorial service for Ungan before his portrait, he told the episode related to the portrait121.  Then a monk asked, “When Ungan said, 'Just this!' what did that mean?”  Tôzan said, “At that time, I almost misunderstood my master's intention.”  The monk said, “I wonder whether or not Ungan really knew that it is.”  Tôzan said, “If he did not know that it is, how could he say like that?  If he knew that it is, how did he dare say like that?”
+
+“How could he say like that?”
+In the fifth watch the cocks crow among the homes before dawn –
+“How did he dare say like that?”
+The thousand-year crane grows old with the pine tree in the clouds.
+The jewel mirror is clear and bright, 
+It examines both essence (shô) and phenomena (hen).
+The jade loom operates back and forth, 
+It sees the completion amid essence and phenomena (kenchûtô).
+The wind of the School is superbly cruising, the regular footsteps continue forever.
+Father and son change and pass through122; their fame and radiance prevail all over.
+--- КОАН 227 ---
+id: shoyo_50
+title: Seppô's "What Is This?"
+text:
+The last word finally breaks the toughest barrier.
+Gantô is so confident of himself that, above, he even defies his own teacher, 
+And, below, he never concedes to his younger Dharma-brother.
+Does he forcibly make the knurs grow, or does it have any special functions?
+
+When Seppô was living in a hermitage, two monks came to pay their respects. When he saw them coming, Seppô thrust open the gate of his hermitage with his hands, jumped out, and said, “What is this?”  The monks also said, “What is this?”  Seppô hung his head and retired into his hermitage.
+Later, the monks came to Gantô.  He asked them, “Where have you come from?”  The monks said, “From Reinan.”  Gantô said, “Did you ever visit Seppô?”  The monks said, “Yes, we visited him.”  Gantô said, “What did he say?”  The monks related what had happened.  Gantô said, “What else did he say?”  The monks said, “Not a word; he hung his head and retired into his hermitage.”  Gantô said, “Oh, how I regret now that in those days I did not tell him the last word!  If I had told it to him, no one under heaven could do anything against him.”
+At the end of the summer practice period the monks came back to this conversation and asked him about its meaning.  Gantô said, “Why didn't you ask me about it sooner?”  The monks said, “We could not dare to ask you about it.”  Gantô said, “Seppô was born on the same stem as I, but he will not die on the same stem.  If you want to know the last word, it is just this.”
+
+Cut, grind, strike, and polish123;
+Change attitudes, and apply dialects – :
+In the Pond Kappi the staff turned into a dragon124;
+The shuttle stayed hidden in the house of Tô125.
+There are many who are born of the same line; 
+[Yet] not many are those who die of the same line.
+The last word:  just this.
+A boat in the wind, carrying the moon, floats on the autumn water.
+--- КОАН 228 ---
+id: shoyo_51
+title: Hôgen's "Boat or Land"
+text:
+Amid the worldly dharmas how many people have been brought to enlightenment; 
+Amid the Buddhist dharma how many people have been deluded!  
+If you suddenly become completely one, can you articulate delusion and enlightenment or not?
+
+Hôgen asked Senior Monk Kaku, “Did you come by boat or by land?”  Kaku said, “By boat.”  Hôgen said, “Where is the boat?”  Kaku said, “The boat is on the river.”  
+     	After Kaku had withdrawn, Hôgen asked a monk nearby, “You tell me, did that monk who was here just now have the eye or not?”
+
+Water cannot wash water,
+Gold cannot be changed into gold.
+One obtains a horse without knowing the color of its hair126,
+One enjoys the lute without resorting to the strings127.
+[In the olden times] people made knots in a rope128; then started trigrams129 –
+[in the end] it [degenerated] to this thing;
+The true genuine mind of Banko130 has completely been lost.
+--- КОАН 229 ---
+id: shoyo_52
+title: Sôzan's "Dharma-body"
+text:
+Those who have intelligence can understand through metaphors.
+If you reach a point where no comparisons or analogies work,
+How do you explain to other people?
+
+Sôzan asked Elder Toku, “'The true Dharma-body of Buddha is like the empty sky.  It manifests its form corresponding to things – just like the moon on the water.'131  How do you explain the principle of this corresponding?”  Toku said, “It is like a donkey looking into a well.”  Sôzan said, “You put it in a nice way, but you were able to say only eighty percent.”  Toku said, “How about you, Master?”  Sôzan said, “It is like a well looking at a donkey.”
+
+The donkey looks into the well, the well looks at the donkey.
+Wisdom embraces all, without anything outside it; 
+Purity prevails, with excessive abundance.
+Who can deliver the seal behind the elbow132?
+No books are stocked in the entire house133.
+With no thread in the loom the shuttle does the work,
+Beautiful patterns, vertical and horizontal,
+With exquisite designs, appearing of themselves.
+--- КОАН 230 ---
+id: shoyo_53
+title: Ôbaku's "Drinkers"
+text:
+When one meets the student, one does not see Buddha;
+For great enlightenment there is not teacher.
+The sword that fixes heaven and earth knows no sympathy;
+The activity to capture tigers and rhinoceroses forgets holy understanding.
+Now tell me, whose strategy is this?
+
+Ôbaku instructed the assembly and said, “You are all drinkers of lees.  If you continue to go on your Way like this, where will the 'Today'134 be?  Do you know that in this great empire of Tang there is no Zen master?”
+  	Now a monk came forward and said, “What would you say to the fact that in various places there are people who accept students and direct their assemblies?”  Ôbaku said, “I don't say that there is no Zen; I only say that there is no master.”
+
+The way is divided, the threads are dyed:  too much labor.
+Binding the leaves, tying the flowers:　it mars the ancestors.
+One takes skillfully the active handle of creation;
+Vessels designed with waters and clouds are on the lathe.
+Clearing the tangles, smashing the tile chips, shaving off the fluff;
+The balance, the mirror, the scale and the scissors:
+Old Ôbaku perceives even an autumn hair;
+Cutting off the spring wind through sitting, he never allows haughtiness.
+--- КОАН 231 ---
+id: shoyo_54
+title: Ungan's "Great Mercy"
+text:
+Transparent on eight sides, totally open in ten directions;
+Emitting light and shaking the earth in all places, 
+Exercising supernatural deeds and subtle functions at all times:
+Tell me, how could this be manifested?
+
+Ungan asked Dôgo, “What does the Bodhisattva of the Great Mercy use so many hands and eyes for?”  Dôgo answered, “It is like a person in the middle of the night reaching with his hand behind his head groping for his pillow.”  Ungan said, “I understood.”  Dôgo said, “How did you understand it?”  Ungan said, “The whole body is hands and eyes.”  Dôgo said, “You said it very well.  But you expressed only eight-tenths of it.”  Ungan said, “How would you say it, Elder Brother?”  Dôgo said, “The entire body is hands and eyes.”
+
+One hole, void and open;
+Transparent on all sides.
+Without form, without “I”, spring takes its shape;
+Unobstructed and unhindered, the moon travels through the empty sky.
+Pure treasure eyes, arms of virtue;
+“The whole body” and “the entire body” – how do they compare with each other?
+The present hands and eyes manifest the entire activities:
+The great functions, vertical and horizontal – how could they detest anything at all?
+--- КОАН 232 ---
+id: shoyo_55
+title: Seppô in Charge of Cooking
+text:
+Ice is chillier than water, blue comes out of indigo:
+Only when one’s view excels that of one’s master, it is qualified to be transmitted;
+If the child is brought up and cannot match the father, the family declines in one generation.  Tell me, who is it that snatches away the activities of one’s father?
+
+Seppô came to Tokusan and became in charge of cooking food.  One day, the lunch was late.  Tokusan came down to the hall carrying his bowls.  Seppô said, “Old Master, the bell has not yet rung nor the drum sounded.  Where are you going with your bowls?”  Thereupon Tokusan went back to his room.  Seppô told this to Gantô.  Gantô said, “Great Tokusan though he is, he has not yet realized the last word.”
+	Hearing of this, Tokusan sent his attendant to summon Gantô and then asked him, “Don't you approve of this old monk?”  Gantô whispered his intention.  Tokusan remained silent.
+	Sure enough, the next day, when Tokusan ascended the rostrum, his talk was quite different from usual.  Gantô, rubbing his hands together, laughed and said, “Wonderful!  How happy I am that our Old Man has realized the last word.  From now on he'll be subject to no one on earth.”
+
+The last word – did you understand it or not?
+Father Tokusan and his son are terribly unclear.
+In the assembly there is a guest from south of the River [Yangtze]: 
+Don’t sing the song of partridges in front of him135.
+--- КОАН 233 ---
+id: shoyo_56
+title: Misshi and the White Rabbit
+text:
+Even if you sank forever in hell, you would not look for the liberation of the saints; 
+Daibadatta [=Devadatta] enjoyed the bliss of the three-Dhyana-Heaven 
+amid uninterrupted hell.
+Uzuranbotsu [=Uddaka-Ramaputta] fell from the zenith of heaven 
+down into the body of a flying raccoon. 
+Just tell me, where is the gain or loss?
+
+When Uncle Misshi136 and Tôzan were walking together, they saw a white rabbit run by in front of them.   Misshi said, “How swift!”  Tôzan said, “In what way?”  Misshi said, “It is just like a person in white clothes137 being venerated as a prime minister.”  Tôzan said, “You are such an elderly and respectable man, and still you say something like that?”  Misshi said, “Then how about you?”  Tôzan said, “A noble of an ancient house is temporarily fallen into poverty.”
+
+Comparing the strength with snow and frost;
+Walking smoothly upon elevated clouds.
+Kakei [=Xiahui] left his country;
+Shôjo [=Siangru] passed the bridge.
+Shôka [=Xiao] and Sôshin [=Caop]’ s strategy established the Han Dynasty;
+The body and mind of Sôho [=Caho] and Kyoyû [=Xu] wanted to evade Emperor Gyô [=Yao].
+People are disturbed by favor and disgrace – find deep faith in yourself.
+The traces of the true heart get mingled and mixed with those of fishermen and woodcutters.
+--- КОАН 234 ---
+id: shoyo_57
+title: Gon'yô's One "Thing"
+text:
+You play with the shadow to change the original form, 
+Without knowing that it is the original form that is the source of the shadow.
+You raise your voice to stop an echo, 
+Without knowing that it is the voice that is the root of the echo.  
+If it’s not seeking an ox while riding an ox, then it’s driving out a wedge using a wedge.
+How can you avoid this flaw?
+
+Venerable Gon'yô asked Jôshû, “How is it when a person does not have a single thing?”  Jôshû said, “Throw it away.”  Gon'yô said, “I say I don't have a single thing.  What could I ever throw away?”  Jôshû said, “If so, carry it around with you.”
+
+If one is not being attentive enough, 
+One cannot preempt effective attacks.
+Realizing one’s own recklessness, one gets shamefully checkmated.
+When the game was over, the handle of the axe had been rotted away at the waist:
+After cleansing the ordinary bones, one plays with the sacred hermits.
+--- КОАН 235 ---
+id: shoyo_58
+title: "Getting Despised" in the Diamond Sutra
+text:
+Understanding the meaning depending upon the sutras 
+is the enemy of the Buddhas of three realms;
+Going away one word from the sutras is the same as the devil’s preaching.
+The one who is not included in cause and does not go into effect –
+Does that person receive karma results or not?
+
+The Diamond Sutra says, “It is about getting despised by other people:  If you are to come into hell because of your sins in your previous life, these sins will be extinguished because you are despised by the people of this world.”
+
+Merits and faults are continuously connected;
+Causes and effects are glued together.
+Away from his mirror Ennyadatta runs about crazily,
+[Master] Hasôda strikes [the oven] with his staff.
+The oven is broken, [the god of the oven] is come to be congratulated;
+He sees that he was [always] going against his own self.
+--- КОАН 236 ---
+id: shoyo_59
+title: Seirin's "Deadly Snake"
+text:
+If it goes, it is retained;
+If it stays, it is expelled.
+Not going, not staying – it has no land.
+Where will you meet it?
+At every spot, at every place.
+Just tell me, what is this thing that is so strange and so wonderful?
+
+A monk asked Seirin, “How is it when a practitioner goes along a narrow path?”  Seirin said, “You will meet a deadly snake on the great road.  I advise you, do not run into it.”  The monk said, “What if I do run into it?”  Seirin said, “You will lose your life.”  The monk said, “What if I don't run into it?”  Seirin said, “You have no place to escape from it.”  The monk said, “Precisely at such a time, what then?”  Seirin said, “It is lost.”  The monk said, “I wonder where it is gone.”  Seirin said, “The grass is so deep, there is no place to look for it.”  The monk said, “You too, Master, must be watchful in order to get it.”  Seirin clapped his hands and said, “This fellow is equally poisonous.”
+
+The helmsman moves the rudder in the dark;
+The lone boat turns its bow in the night.
+The flowers of the reed, snow upon both banks;
+The cloud over the water – ’tis autumn on the river.
+Wind helps the sailboat, no need to row forward;
+With the sound of the flute calling the moon, 
+The boat descends toward the enchanted land.
+--- КОАН 237 ---
+id: shoyo_60
+title: Tetsuma, the Cow
+text:
+The nose is high and dignified: 
+Each one has an appearance of a great personage.
+The legs and ankles are firm and solid, 
+Should one study “old-woman Zen”? 
+If you grasp the ungraspable barrier, 
+For the first time you see the means of a true adept.  
+Tell me, who is such a person?
+
+Ryû Tetsuma138 came to Isan.  Isan said, “Old Cow, you have come!”  Tetsuma said, “Tomorrow there will be a great feast at Mt. Tai139.  Will you go there, Master?”  Isan lay down and stretched himself out.  Tetsuma left immediately.
+
+Successfully accomplishing one hundred battles, 
+One grows old in peace.
+Soft and gentle, who dares to fight over diplomatic alliances?
+The jade whip and golden horse are useless all day;
+The clear moon and pure wind make one rich all through one’s life.
+--- КОАН 238 ---
+id: shoyo_61
+title: Kempô's "One Line"
+text:
+The hand [of a master veterinarian] cures even a dead horse.
+The soul-reviving incense will make you rise from the peril.
+If you once sweat with your entire body, 
+You will believe that he has never spared the eyebrows140.
+--- КОАН 239 ---
+id: shoyo_62
+title: Beiko's "Enlightenment"
+text:
+The secondary class distinguishes enlightenment, shattering delusion:
+Smoothly your hands should throw away all nets and traps.
+If your achievements are not exhausted, they turn to be all thumbs.
+You can hardly know Wisdom, since you cannot bite your own navel.
+The rabbit is old141, with the autumn dew weeping on the icy disk;
+The birds are cold, while the jade trees are chilled in the dawn wind.
+With his remark, Great Kyôzan distinguishes real and false;
+Without any scars at all – how precious is the white jade!
+--- КОАН 240 ---
+id: shoyo_63
+title: Jôshû Asks about "Death"
+text:
+Sanshô and Seppô are orchids in the spring, chrysanthemums in the autumn; 
+Jôshû and Tôsu are the gem of Benka, the gold of the land of En.
+On a balance without scales, both weights are even; 
+In a boat without the bottom, they go across in one place.
+When the two meet, what happens then?
+
+Jôshû asked Tôsu, “What if a man who has died a great Death comes back to life?”  Tôsu said, “I don't allow walking about in the night.  You should come in the daylight.”
+
+The castle of poppy seeds, the rock of the kalpa – they subtly exhaust the beginning;
+The living eye in the ring illumines vast emptiness.
+Not allowing walking about in the night, [having] come in the dawn’s light:
+The news of the family [needs] not be entrusted to the giant goose or the fish.
+--- КОАН 241 ---
+id: shoyo_64
+title: Shishô's "Succession"
+text:
+Shôyô142 intimately encountered Bokushû, yet he burnt succession incense for old Seppô;
+Tôsu personally received it from Enkan143, yet he succeeded in the Dharma to Daiyô144.
+Jade blossoms bloom upon the coral branches;
+Gold fruit ripens in the forest of sandalswood.
+Just tell me, how do such creations take place?
+
+Head Monk Shishô145 asked Hôgen, “You have opened a zendo, Master.  But who did you succeed to?”  Hôgen said, “Master Jizô.”  Shishô said, “You have gone a great deal against your late master Chôkei.”146  Hôgen said, “I still don't understand a turning word of Chôkei's.”  Shishô said, “Why didn't you ask me?”  Hôgen said, “'The one body manifests itself in myriad phenomena' – what does it mean?”  Shishô stuck up his whisk.  Hôgen said, “That is what you learned under Chôkei.  What is your own view, Head Monk?”  Shishô was silent.  Hôgen said, “When it is said, 'The one body manifests itself in myriad phenomena' – are the myriad phenomena swept away or are they not?”  Shishô said, “Not swept away.”  Hôgen said, “There are two.”  All the disciples on the right and the left side said, “Swept away.”  Hôgen said, “The one body manifests itself in myriad phenomena – Nii147!”
+
+Away from thoughts, you see the Buddha,
+Breaking through the dust, you draw out the Sutra.
+The family Dharma is right here and now: 
+Who should establish the [facilities] of the gate148 at all?
+The moon follows the boat, flowing into the river of silken purity,
+The spring comes with the grass, pervading the [fresh] green in the burnt field.
+Swept away? Not swept away? – Listen with utmost care!
+The three paths149 are desolate, yet one was able to return;
+The old pines and chrysanthemums are still balmy and fragrant.
+--- КОАН 242 ---
+id: shoyo_65
+title: Shuzan's "Bride"
+text:
+Tut, tut!　Whoop, whoop!
+Crump, crump!  Grumble, grumble!
+Puff, puff!  Zing, zing!
+Vast and vague,
+Impossible to chew, difficult to come near.
+Tell me, what is this all about?
+
+A monk asked Shuzan, “What is Buddha?”  Shuzan said, “When a bride rides the donkey, her mother-in-law leads it by the bridle.150“
+
+When a bride rides the donkey, her mother-in-law leads it by the bridle:
+The appearance is graceful and truly natural.
+How laughable! The girl in the neighborhood imitates a frowning face:
+She simply adds to her ugliness for other people, it never makes her attractive.
+--- КОАН 243 ---
+id: shoyo_66
+title: Kyûhô's "Head and Tail"
+text:
+Even a person who can apply supernatural powers cannot let a foot down;
+Even a person who forgot all karma ties and extinguished all thoughts cannot raise a foot.
+You should say: Sometimes you kill by running, sometimes you kill by sitting.
+How can you attain the proper balance?
+
+A monk asked Kyûhô, “What is the head?”  Kyûhô said, “Opening the eyes and not perceiving the dawn.”  The monk said, “What is the tail?”  Kyûhô said, “Not sitting on a ten-thousand-year-old sitting place.”  The monk said, “What if there is a head, but no tail?”  Kyûhô said, “After all, it is not valuable.”  The monk said, “What if there is a tail, but no head?”  Kyûhô said, “Being complacent, yet having no power.”  The monk said, “What if the head matches the tail?”  Kyûhô said, “The descendants will prosper, but it is not known in the room.”
+
+Round for a compass, square for a ruler:
+When used, it functions; when cast away, it hides.
+When stumbling – a bird living in the reeds;
+Unable to go forward or backward – a sheep stuck in the hedge.
+Eating rice of other people, sleeping in one’s own bed.
+Clouds come up and cause rain, dew forms and becomes frost.
+The jade lines cross each other and go through the eyes of needles;
+The baldaquin threads constantly rush out of the weaving shuttles.
+The stone woman’s loom stops, and the color of the night turns to noon;
+The wood person walks on the road, and the moon is gone beyond the midnight.
+--- КОАН 244 ---
+id: shoyo_67
+title: The Wisdom in the Kegon Sutra
+text:
+One speck of dust contains myriad phenomena,
+One thought embraces three thousands worlds.
+Then, how about a strong person who sustains the heaven and stands upon the earth,
+Or a wise and sharp fellow who understands the tail when the head is mentioned?
+Won’t that person turn his back against his own spirituality 
+And bury away the family treasure?
+
+The Kegon Sutra says, “Now I see all living beings everywhere, and I see that each of them possesses the wisdom and virtue of Tathagata.  But because of their delusions and attachments, they cannot realize it.”
+--- КОАН 245 ---
+id: shoyo_68
+title: Kassan Brandishes the Sword
+text:
+The emperor’s decree inside the land of his direct control;
+The general’s command outside the walled regions.
+Sometimes one gets power at the gate; 
+Sometimes one is sublime in the room.
+Just tell me, who is this?
+
+A monk asked Kassan, “What if one sweeps away the dust and sees Buddha?”  Kassan said, “You must brandish your sword.  If you do not brandish your sword, the fisherman dwells in a nest of reeds151.”
+     The monk mentioned this to Sekisô and asked him, “What if one sweeps away the dust and sees Buddha?”  Sekisô said, “He has no land152 [to dwell in].  Where could one meet him?”
+     The monk reported this to Kassan.  Kassan ascended the rostrum and said, “As for the facilities at the gate153, the old monk154 is superior to Sekisô, but for deep discourse expounding the true principle he is one hundred steps ahead of me.”
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}

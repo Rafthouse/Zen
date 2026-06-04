@@ -1,0 +1,331 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 106 ---
+id: the_three_calls_of_the_emperors_teacher
+title: The Three Calls of the Emperor's Teacher
+text:
+Chu, called Kokushi, the teacher of the emperor, called to his attendant: "Oshin." 
+
+Oshin answered: "Yes."
+
+Chu repeated, to test his pupil: "Oshin."
+
+Oshin repeated: "Yes."
+
+Chu called: "Oshin."
+
+Oshin answered: "Yes."
+
+Chu said: "I ought to apologize to you for all this calling, but really you ought to apologize to me."
+--- КОАН 107 ---
+id: tozans_three_pounds
+title: Tozan's Three Pounds
+text:
+A monk asked Tozan when he was weighing some flax: "What is Buddha?" 
+
+Tozan said: "This flax weighs three pounds."
+--- КОАН 108 ---
+id: everyday_life_is_the_path
+title: Everyday Life Is the Path
+text:
+Joshu asked Nansen: "What is the path?"
+
+Nansen said: "Everyday life is the path."
+
+Joshu asked: "Can it be studied?"
+
+Nansen said: "If you try to study, you will be far away from it."
+
+Joshu asked: "If I do not study, how can I know it is the path?"
+
+Nansen said: "The path does not belong to the perception world, neither does it belong to the nonperception world. Cognition is a delusion and noncognition is senseless. If you want to reach the true path beyond doubt, place yourself in the same freedom as sky. You name it neither good nor not-good."
+
+At these words Joshu was enlightened.
+--- КОАН 109 ---
+id: the_enlightened_man
+title: The Enlightened Man
+text:
+Shogen asked: "Why does the enlightened man not stand on his feet and explain himself?" And he also said: "It is not necessary for speech to come from the tongue."
+--- КОАН 110 ---
+id: dried_dung
+title: Dried Dung
+text:
+A monk asked Ummon: "What is Buddha?"
+
+Ummon answered him: "Dried dung."
+--- КОАН 111 ---
+id: kashapas_preaching_sign
+title: Kashapa's Preaching Sign
+text:
+Ananda asked Kashapa: "Buddha gave you the golden-woven robe of successorship. What else did he give you?"
+
+Kashapa said: "Ananda."
+
+Ananda answered: "Yes, brother."
+
+Said Kashapa: "Now you can take down my preaching sign and put up your own."
+--- КОАН 112 ---
+id: do_not_think_good_do_not_think_not_good
+title: Do Not Think Good, Do Not Think Not-Good
+text:
+When he became emancipated the sixth patriarch received from the fifth patriarch the bowl and robe given from the Buddha to his successors, generation after generation.
+
+A monk named E-myo out of envy pursued the patriarch to take this great treasure away from him. The sixth patriarch placed the bowl and robe on a stone in the road and told E-myo: "These objects just symbolize the faith. There is no use fighting over them. If you desire to take them, take them now."
+
+When E-myo went to move the bowl and robe they were as heavy as mountains. He could not budge them. Trembling for shame he said: "I came wanting the teaching, not the material treasures. Please teach me."
+
+The sixth patriarch said: "When you do not think good and when you do not think not-good, what is your true self?"
+
+At these words E-myo was illumined. Perspiration broke out all over his body. He cried and bowed, saying: "You have given me the secret words and meanings. Is there yet a deeper part of the teaching?"
+
+The sixth patriarch replied: "What I have told you is no secret at all. When you realize your own true self the secret belongs to you."
+
+E-myo said: "I was under the fifth patriarch many years but could not realize my true self until now. Through your teaching I find the source. A person drinks water and knows himself whether  it is cold or warm. May I call you my teacher?"
+
+The sixth patriarch replied: "We studied together under the fifth patriarch. Call him your teacher, but just treasure what you have attained."
+--- КОАН 113 ---
+id: without_words_without_silence
+title: Without Words, Without Silence
+text:
+A monk asked Fuketsu: "Without speaking, without silence, how can you express the truth?"
+
+Fuketsu observed: "I always remember springtime in southern China. The birds sing among innumerable kinds of fragrant flowers."
+--- КОАН 114 ---
+id: preaching_from_the_third_seat
+title: Preaching from the Third Seat
+text:
+In a dream Kyozan went to Maitreya's Pure Land. He recognized himself seated in the third seat in the abode of Maitreya. Someone announced: "Today the one who sits in the third seat will preach."
+
+Kyozan arose and, hitting the gavel, said: "The truth of Mahayana teaching is transcendent, above words and thought. Do you understand?"
+--- КОАН 115 ---
+id: two_monks_roll_up_the_screen
+title: Two Monks Roll Up the Screen
+text:
+Hogen of Seiryo monastery was about to lecture before dinner when he noticed that the bamboo screen lowered for meditation had not been  rolled up. He pointed to it. Two monks arose from the audience and rolled it up.
+
+Hogen, observing the physical moment, said: "The state of the first monk is good, not that of the other."
+--- КОАН 116 ---
+id: it_is_not_mind_it_is_not_buddha_it_is_not_things
+title: It Is Not Mind, It Is Not Buddha, It Is Not Things
+text:
+A monk asked Nansen: "Is there a teaching no master ever preached before?"
+
+Nansen said: "Yes, there is."
+
+"What is it?" asked the monk.
+
+Nansen replied: "It is not mind, it is not Buddha, it is not things."
+--- КОАН 117 ---
+id: blow_out_the_candle
+title: Blow Out the Candle
+text:
+Tokusan was studying Zen under Ryutan. One night he came to Ryutan and asked many questions. The teacher said: "The night is getting old. Why don't you retire?"
+
+So Tokusan bowed and opened the screen to go out, observing: "It is very dark outside."
+
+Ryutan offered Tokusan a lighted candle to find his way. Just as Tokusan received it, Ryutan blew it out. At that moment the mind of Tokusan was opened.
+
+"What have you attained?" asked Ryutan. "From now on," said Tokusan, "I will not doubt the teacher's words."
+
+The next day Ryutan told the monks at his lecture: "I see one monk among you. His teeth are like the sword tree, his mouth is like the blood bowl. If you hit him hard with a big stick, he will not even so much as look back at you. Someday he will mount the highest peak and carry my teaching there."
+
+On that day, in front of the lecture hall, Tokusan burned to ashes his commentaries on the sutras. He said: "However abstruse the teachings are, in comparison with this enlightenment they are like a single hair to the great sky. However profound the complicated knowledge of the world, compared to this enlightenment it is like one drop of water to the great ocean." Then he left that monastery.
+--- КОАН 118 ---
+id: not_the_wind_not_the_flag
+title: Not the Wind, Not the Flag
+text:
+Two monks were arguing about a flag. One said: "The flag is moving."
+
+The other said: "The wind is moving."
+
+The sixth patriarch happened to be passing by. He told them: "Not the wind, not the flag; mind is moving."
+--- КОАН 119 ---
+id: this_mind_is_buddha
+title: This Mind Is Buddha
+text:
+Daibai asked Baso: "What is Buddha?"
+
+Baso said: "This mind is Buddha."
+--- КОАН 120 ---
+id: joshu_investigates
+title: Joshu Investigates
+text:
+A traveling monk asked an old woman the road to Taizan, a popular temple supposed to give wisdom to the one who worships there. The old woman said: "Go straight ahead." When the monk proceeded a few steps, she said to herself: "He also is a common church-goer."
+
+Someone told this incident to Joshu, who said: "Wait until I investigate." The next day he went and asked the same question, and the old woman gave the same answer.
+
+Joshu remarked: "I have investigated that old woman."
+--- КОАН 121 ---
+id: a_philosopher_asks_buddha
+title: A Philosopher Asks Buddha
+text:
+A philosopher asked Buddha: "Without words, without the wordless, will you tell me truth?"
+
+The Buddha kept silence.
+
+The philosopher bowed and thanked the Buddha, saying: "With your loving kindness I have cleared away my delusions and entered the true path."
+
+After the philosopher had gone, Ananda asked the Buddha what he had attained.
+
+The Buddha replied: "A good horse runs even at the shadow of the whip."
+--- КОАН 122 ---
+id: this_mind_is_not_buddha
+title: This Mind Is Not Buddha
+text:
+A monk asked Baso: "What is Buddha?"
+
+Baso said: "This mind is not Buddha."
+--- КОАН 123 ---
+id: learning_is_not_the_path
+title: Learning Is Not the Path
+text:
+Nansen said: "Mind is not Buddha. Learning is not the path."
+--- КОАН 124 ---
+id: two_souls
+title: Two Souls
+text:
+"Seijo, the Chinese girl," observed Goso, "had two souls, one always sick at home and the other in the city, a married woman with two children. Which was the true soul?"
+--- КОАН 125 ---
+id: meeting_a_zen_master_on_the_road
+title: Meeting a Zen Master on the Road
+text:
+Goso said: "When you meet a Zen master on the road you cannot talk to him, you cannot face him with silence. What are you going to do?"
+--- КОАН 126 ---
+id: a_buffalo_passes_through_the_enclosure
+title: A Buffalo Passes Through the Enclosure
+text:
+Goso said: "When a buffalo goes out of his enclosure to the edge of the abyss, his horns and his head and his hoofs all pass through, but why can't the tail also pass?"
+--- КОАН 127 ---
+id: an_oak_tree_in_the_garden
+title: An Oak Tree in the Garden
+text:
+A monk asked Joshu why Bodhidharma came to China. 
+
+Joshu said: "An oak tree in the garden."
+--- КОАН 128 ---
+id: ummons_sidetrack
+title: Ummon's Sidetrack
+text:
+A Zen student told Ummon: "Brilliancy of Buddha illuminates the whole universe."
+
+Before he finished the phrase Ummon asked: "You are reciting another's poem, are you not?"
+
+"Yes," answered the student.
+
+"You are sidetracked," said Ummon.
+
+Afterwards another teacher, Shishin, asked his pupils: "At what point did that student go off the track?"
+--- КОАН 129 ---
+id: tipping_over_a_water_vase
+title: Tipping Over a Water Vase
+text:
+Hyakujo wished to send a monk to open a new monastery. He told his pupils that whoever answered a question most ably would be appointed. Placing a water vase on the ground, he asked: "Who can say what this is without calling its name?"
+
+The chief monk said: "No one can call it a wooden shoe."
+
+Isan, the cooking monk, tipped over the vase with his foot and went out.
+
+Hyakujo smiled and said: "The chief monk loses." And Isan became the master of the new monastery.
+--- КОАН 130 ---
+id: bodhidharma_pacifies_the_mind
+title: Bodhidharma Pacifies the Mind
+text:
+Bodhidharma sits facing the wall. His future successor stands in the snow and presents his severed  arm to Bodhidharma. He cries: "My mind is not pacified. Master, pacify my mind."
+
+Bodhidharma says: "If you bring me that mind, I will pacify it for you."
+
+The successor says: "When I search my mind I cannot hold it."
+
+Bodhidharma says: "Then your mind is pacified already."
+--- КОАН 131 ---
+id: the_girl_comes_out_from_meditation
+title: The Girl Comes Out from Meditation
+text:
+In the time of Buddha Shakyamuni, Manjusri went to the assemblage of the Buddhas. When he arrived there, the conference was over and each Buddha had returned to his own Buddha-land. Only one girl was yet unmoved in deep meditation.
+
+Manjusri asked Buddha Shakyamuni how it was possible for this girl to reach this state, one which even he could not attain. "Bring her out  from Samadhi and ask her yourself," said the Buddha.
+
+Manjusri walked around the girl three times and snapped his fingers. She still remained in meditation. So by his miracle power he transported her to a high heaven and tried his best to call her, but in vain.
+
+Buddha Shakyamuni said: "Even a hundred thousand Manjusris could not disturb her, but below this place, past twelve hundred million countries, is a Bodhisattva, Mo-myo, seed of delusion. If he comes here, she will awaken."
+
+No sooner had the Buddha spoken than that Bodhisattva sprang up from the earth and bowed and paid homage to the Buddha. Buddha directed him to arouse the girl. The Bodhisattva went in front of the girl and snapped his fingers, and in that instant the girl came out from her deep meditation.
+--- КОАН 132 ---
+id: shuzans_short_staff
+title: Shuzan's Short Staff
+text:
+Shuzan held out his short staff and said: "If you call this a short staff, you oppose its reality. If you do not call it a short staff, you ignore the fact. Now what do you wish to call this?"
+--- КОАН 133 ---
+id: bashos_staff
+title: Basho's Staff
+text:
+Basho said to his disciple: "When you have a staff, I will give it to you. If you have no staff, I will take it away from you."
+--- КОАН 134 ---
+id: who_is_he
+title: Who Is He?
+text:
+Hoen said: "The past and future Buddhas, both are his servants. Who is he?"
+--- КОАН 135 ---
+id: proceed_from_the_top_of_the_pole
+title: Proceed from the Top of the Pole
+text:
+Sekiso asked: "How can you proceed on from the top of a hundred-foot pole?" Another Zen teacher said: "One who sits on the top of a hundred-foot pole has attained a certain height but still is not handling Zen freely. He should proceed on from there and appear with his whole body in the ten parts of the world."
+--- КОАН 136 ---
+id: three_gates_of_tosotsu
+title: Three Gates of Tosotsu
+text:
+Tosotsu built three barriers and made the monks pass through them. The first barrier is studying Zen. In studying Zen the aim is to see one's own true nature. Now where is your true nature?
+
+Secondly, when one realizes his own true nature he will be free from birth and death. Now when you shut the light from your eyes and become a corpse, how can you free yourself?
+
+Thirdly, if you free yourself from birth and death, you should know where you are. Now your body separates into the four elements. Where are you?
+--- КОАН 137 ---
+id: one_road_of_kembo
+title: One Road of Kembo
+text:
+A Zen pupil asked Kembo: "All Buddhas of the ten parts of the universe enter the one road of Nirvana. Where does that road begin?"
+
+Kembo, raising his walking stick and drawing the figure one in the air, said: "Here it is."
+
+This pupil went to Ummon and asked the same question. Ummon, who happened to have a fan in his hand, said: "This fan will reach to the thirty-third heaven and hit the nose of the presiding deity there. It is like the Dragon Carp of the Eastern Sea tipping over the rain-cloud with his tail."
+--- КОАН 138 ---
+id: ambans_addition
+title: Amban's Addition
+text:
+Amban, a layman Zen student, said: "Mu-mon has just published forty-eight koans and called the book Gateless Gate. He criticizes the old patriarchs' words and actions. I think he is very mischievous. He is like an old doughnut seller trying to catch a passerby to force his doughnuts down his mouth. The customer can neither swallow nor spit out the doughnuts, and this causes suffering. Mu-mon has annoyed everyone enough, so I think I shall add one more as a bargain. I wonder if he himself can eat this bargain. If he can, and digest it well, it will be fine, but if not, we will have to put it back into the frying pan with his forty-eight also and cook them again. Mu-mon, you eat first, before someone else does:
+
+"Buddha, according to a sutra, once said: 'Stop, stop. Do not speak. The ultimate truth is not even to think.'"
+
+ 
+
+Amban's comment: Where did that so-called teaching come from? How is it that one could not even think it? Suppose someone spoke about it then what became of it? Buddha himself was a great chatterbox and in this sutra spoke contrarily. Because of this, persons like Mu-mon appear afterwards in China and make useless doughnuts, annoying people. What shall we do after all? I will show you.
+
+Then Amban put his palms together, folded  his hands, and said: "Stop, stop. Do not speak. The ultimate truth is not even to think. And now I will make a little circle on the sutra with my finger and add that five thousand other sutras and Vimalakirti's gateless gate all are here!"
+
+If anyone tells you fire is light,
+ Pay no attention.
+ When two thieves meet they need no introduction:
+ They recognize each other without question.
+--- КОАН 139 ---
+id: finding_a_diamond_on_a_muddy_road
+title: Finding a Diamond on a Muddy Road
+text:
+Gudo was the emperor's teacher of Zen. Nevertheless, he used to travel alone as a wandering pilgrim. When he was at the seaside in Edo, some distance from the inn where he was staying, he noticed a tea shop. A girl was working there. "I must buy some tea," thought Gudo, and he called to the girl to bring him a cup. "I'll bring it to you," said the girl, and she brought him a cup of tea. When Gudo held out his hand for the cup, she suddenly poured the tea over his hand. The hot water burned his hand and he nearly dropped the cup. The girl laughed. Startled and angry, Gudo looked at her. "You look like a Zen man," said the girl, "but you don't seem to understand how a person like me fools you. Tell me, now, what is the Buddha?" Gudo tried to answer, but could not. The girl laughed again and went into the shop. Gudo was humiliated. He felt he could not remain in that region. He went to a master and became a serious student at last. After many years he returned home, realizing that he had found a diamond on a muddy road.
+--- КОАН 140 ---
+id: no_loving_kindness
+title: No Loving Kindness
+text:
+Zen Master Hakuin was praised by his neighbours as one living a pure life. A beautiful Japanese girl whose parents owned a food store lived near him. Suddenly, without any warning, her parents discovered she was with child. The parents were angry. The girl would not confess who the man was, but after much harassment at last named Hakuin. In great anger the parents went to the master. "Is that so?" was all he would say. After the child was born it was brought to Hakuin. He had lost his reputation, but did not seem to mind. He took very good care of the child. He obtained milk from his neighbours and everything else the little one needed. A year later the girl could stand it no longer. She told her parents the truth — the real father was a young man who worked in the fish market. The parents of the girl at once went to Hakuin, asked his forgiveness, and told him they wanted the child back. Hakuin willingly returned the child. "Is that so?" was all he said.
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}

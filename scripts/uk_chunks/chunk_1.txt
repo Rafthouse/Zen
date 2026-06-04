@@ -1,0 +1,286 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 36 ---
+id: the_subjugation_of_a_ghost
+title: The Subjugation of a Ghost
+text:
+A young wife fell sick and was about to die. "I love you so much," she told her husband. "I do not want to leave you. Do not go from me to any other woman. If you do, I will return as a ghost and cause you endless trouble."
+Soon the wife passed away. The husband respected her last wish for the first three months, but then he met another woman and fell in love with her. They became engaged to be married.
+Immediately after the engagement a ghost appeared every night to the man, blaming him for not keeping his promise. The ghost was clever too. She told him exactly what had transpired between himself and his new sweetheart. He could not sleep at all.
+Someone advised the man to take his problem to a Zen master who lived close to the village. At length, in despair, the poor man went to him for help.
+"Your former wife became a ghost and knows everything you do," commented the master. "Whatever you do or say, whatever you give your beloved, she knows. She must be a very wise ghost. Really you should admire such a ghost. The next time she appears, bargain with her. Tell her that she knows so much you can hide nothing from her, and that if she will answer you one question, you promise to break your engagement and remain single."
+"What is the question I must ask her?" inquired the man.
+The master replied: "Take a large handful of soy beans and ask her exactly how many beans you hold in your hand. If she cannot tell you, you will know that she is only a figment of your imagination and will trouble you no longer."
+The next night, when the ghost appeared the man flattered her and told her that she knew everything.
+"Indeed," replied the ghost, "and I know you went to see that Zen master today."
+"And since you know so much," demanded the man, "tell me how many beans I hold in this hand!"
+There was no longer any ghost to answer the question.
+--- КОАН 37 ---
+id: the_thief_and_the_master
+title: Children of His Majesty
+text:
+Yamaoka Tesshu was a tutor of the emperor. He was also a master of fencing and a profound student of Zen.
+His home was the abode of vagabonds. He had but one suit of clothes, for they kept him always poor.
+The emperor, observing how worn his garments were, gave Yamaoka some money to buy new ones. The next time Yamaoka appeared he wore the same old outfit.
+"What became of the new clothes, Yamaoka?" asked the emperor.
+"I provided clothes for the children of Your Majesty," explained Yamaoka.
+--- КОАН 38 ---
+id: the_tea_master_and_the_assassin
+title: The Tea-Master and the Assassin
+text:
+Taiko, a warrior who lived in Japan before the Tokugawa era, studied Cha-no-yu, tea etiquette, with Sen no Rikyu. One of Taiko's attendants, the tea-master Kato, was skilled in the art but lacked the heart of a warrior.
+A fierce younger samurai, jealous, challenged Kato to a duel. Kato, who had never held a sword in earnest, went to a Zen master for advice.
+"You must die anyway," the master told him, "so meet your opponent with the same single-minded calm you bring to the tea ceremony. Greet him courteously, praise his courage, take off your coat, fold it carefully as if serving tea, place your headband upon it, draw your sword, raise it overhead, and stand ready, your mind empty of thought, until he strikes."
+Kato did exactly this. He faced his opponent with such serene composure that the samurai, finding no opening and seeing only a man wholly without fear, dropped to his knees and begged Kato's pardon, then fled without striking a blow.
+--- КОАН 39 ---
+id: the_living_buddha_and_the_tubmaker
+title: The Living Buddha and the Tubmaker
+text:
+Zen masters give personal guidance in a secluded room. No one enters while teacher and pupil are together.
+Mokurai, the Zen master of Kennin temple in Kyoto, used to enjoy talking with merchants and newspapermen as well as with his pupils. A certain tubmaker was almost illiterate. He would ask foolish questions of Mokurai, have tea, and then go away.
+One day while the tubmaker was there Mokurai wished to give personal guidance to a disciple, so he asked the tubmaker to wait in another room.
+"I understand you are a living Buddha," the man protested. "Even the stone Buddhas in the temple never refuse the numerous persons who come together before them. Why then should I be excluded?"
+Mokurai had to go outside to see his disciple.
+--- КОАН 40 ---
+id: the_thief_of_the_heart
+title: Killing
+text:
+Gasan instructed his adherents one day: "Those who speak against killing and who desire to spare the lives of all conscious beings are right. It is good to protect even animals and insects. But what about those persons who kill time, what about those who are destroying wealth, and those who destroy political economy? We should not overlook them. Furthermore, what of the one who preaches without enlightenment? He is killing Buddhism."
+--- КОАН 41 ---
+id: the_thief_of_attention
+title: Storyteller's Zen
+text:
+Encho was a famous storyteller. His tales of love stirred the hearts of his listeners. When he narrated a story of war, it was as if the listeners themselves were on the field of battle.
+One day Encho met Yamaoka Tesshu, a layman who had almost embraced masterhood in Zen. "I understand," said Yamaoka, "you are the best storyteller in our land and that you make people cry or laugh at will. Tell me my favorite story of the Peach Boy. When I was a little tot I used to sleep beside my mother, and she often related this legend. In the middle of the night I would fall asleep. Tell it to me just as my mother did."
+Encho dared not attempt to do this. He requested time to study. Several months later he went to Yamaoka and said: "Please give me the opportunity to tell you the story."
+"Some other day," answered Yamaoka.
+Encho was keenly disappointed. He studied further and tried again. Yamaoka turned him away many times. When Encho would begin to talk Yamaoka would stop him, saying: "You are not yet like my mother."
+It took Encho five years to be able to tell Yamaoka the legend as his mother had told it to him.
+--- КОАН 42 ---
+id: midnight_excursion
+title: Midnight Excursion
+text:
+Many pupils were studying meditation under the Zen master Sengai. One of them used to arise at night, climb over the temple wall, and go to town on a pleasure jaunt.
+Sengai, inspecting the dormitory quarters, found this pupil missing one night and also discovered the high stool he used to scale the wall. Sengai removed the stool and stood there in its place.
+When the wanderer returned, not knowing that Sengai was the stool, he put his feet on the master's head and jumped down into the grounds. Discovering what he had done, he was aghast.
+Sengai said: "It is very chilly in the early morning. Do be careful not to catch cold yourself."
+The pupil never went out at night again.
+--- КОАН 43 ---
+id: a_letter_to_a_dying_man
+title: A Letter to a Dying Man
+text:
+Bassui wrote the following letter to one of his disciples who was about to die:
+"The essence of your mind is not born, so it will never die. It is not an existence, which is perishable. It is not an emptiness, which is a mere void. It has neither colour nor form. It enjoys no pleasures and suffers no pains.
+I know you are very ill. Like a good Zen student, you are facing that sickness squarely. You may not know exactly who is suffering, but question yourself: What is the essence of this mind? Think only of this. You will need no more. Covet nothing. Your end which is endless is as a snowflake dissolving in the pure air."
+--- КОАН 44 ---
+id: the_thief_who_left_it
+title: If You Love, Love Openly
+text:
+Twenty monks and one nun, who was named Eshun, were practicing meditation with a certain Zen master.
+Eshun was very pretty even though her head was shaved and her dress plain. Several monks secretly fell in love with her. One of them wrote her a love letter, insisting upon a private meeting.
+Eshun did not reply. The following day the master gave a lecture to the group, and when it was over, Eshun arose. Addressing the one who had written to her, she said: "If you really love me so much, come and embrace me now."
+--- КОАН 45 ---
+id: the_thief_of_words
+title: Reciting Sutras
+text:
+A farmer requested a Tendai priest to recite sutras for his wife, who had died. After the recitation was over the farmer asked: "Do you think my wife will gain merit from this?"
+"Not only your wife, but all sentient beings will benefit from the recitation of sutras," answered the priest.
+"If you say all sentient beings will benefit," said the farmer, "my wife may be very weak and others will take advantage of her, getting the benefit she should have. So please recite sutras just for her."
+The priest explained that it was the desire of a Buddhist to offer blessings and wish merit for every living being.
+"That is a fine teaching," concluded the farmer, "but please make one exception. I have a neighbor who is rough and mean to me. Just exclude him from all those sentient beings."
+--- КОАН 46 ---
+id: no_attachment_to_dust
+title: No Attachment to Dust
+text:
+Zengetsu, a Chinese master of the T'ang dynasty, wrote the following advice for his pupils:
+Living in the world yet not forming attachments to the dust of the world is the way of a true Zen student.
+When witnessing the good action of another, encourage yourself to follow his example. Hearing of the mistaken action of another, advise yourself not to emulate it.
+Even though alone in a dark room, be as if you were facing a noble guest. Express your feelings, but become no more expressive than your true nature.
+Poverty is your treasure. Never exchange it for an easy life.
+A person may appear a fool and yet not be one. He may only be guarding his wisdom carefully.
+--- КОАН 47 ---
+id: the_thief_of_silence
+title: One Note of Zen
+text:
+After Kakua visited the emperor he disappeared and no one knew what became of him. He was the first Japanese to study Zen in China, but since he showed nothing of it, save one note, he is not remembered for having brought Zen into his country.
+Kakua visited China and accepted the true teaching. He did not travel while he was there. Meditating constantly, he lived on a remote part of a mountain. Whenever people found him and asked him to preach he would say a few words and then move to another part of the mountain where he could be found less easily.
+The emperor heard about Kakua when he returned to Japan and asked him to preach Zen for his edification and that of his subjects.
+Kakua stood before the emperor in silence. He then produced a flute from the folds of his robe, and blew one short note. Bowing politely, he disappeared.
+--- КОАН 48 ---
+id: the_thief_of_self
+title: Inch Time, Foot Gem
+text:
+A lord asked Takuan, a Zen teacher, to suggest how he might pass the time. He felt his days very long attending his office and sitting stiffly to receive the homage of others.
+Takuan wrote eight Chinese characters and gave them to the man:
+Not twice this day. Inch time foot gem.
+This day will not come again. Each minute is worth a priceless gem.
+--- КОАН 49 ---
+id: the_thief_of_form
+title: Mokusen's Hand
+text:
+Mokusen Hiki was living in a temple in the province of Tamba. One of his adherents complained of the stinginess of his wife.
+Mokusen visited the adherent's wife and showed her his clenched fist before her face.
+"What do you mean by that?" asked the surprised woman.
+"Suppose my fist were always like that. What would you call it?" he asked.
+"Deformed," replied the woman.
+Then he opened his hand flat in her face and asked: "Suppose it were always like that. What then?"
+"Another kind of deformity," said the wife.
+"If you understand that much," finished Mokusen, "you are a good wife." Then he left.
+After his visit, this wife helped her husband to distribute as well as to save.
+--- КОАН 50 ---
+id: the_thief_of_things
+title: The Most Valuable Teaching
+text:
+Mu-nan, the master, had only one successor. His name was Shoju. After Shoju had completed his study of Zen, Mu-nan called him into his room. "I am getting old," he said, "and as far as I know, Shoju, you are the only one who will carry on this teaching. Here is a book. It has been passed down from master to master for seven generations. I have also added many points according to my understanding. The book is very valuable, and I am giving it to you to represent your successorship."
+"If the book is such an important thing, you had better keep it," Shoju replied. "I received your Zen without writing and am satisfied with it as it is."
+"I know that," said Mu-nan. "Even so, this work has been carried from master to master for seven generations, so you may keep it as a symbol of having received the teaching. Here."
+They happened to be talking before a brazier. The instant Shoju felt the book in his hands he thrust it into the flaming coals. He had no lust for possessions.
+Mu-nan, who never had been angry before, yelled: "What are you doing!"
+Shoju shouted back: "What are you saying!"
+--- КОАН 51 ---
+id: the_thief_of_mind
+title: How to Write a Chinese Poem
+text:
+A well-known Japanese poet was asked how to compose a Chinese poem.
+"The usual Chinese poem is four lines," he explained. "The first line contains the initial phrase; the second line, the continuation of that phrase; the third line turns from this subject and begins a new one; and the fourth line brings the first three lines together. A popular Japanese song illustrates this:
+Two daughters of a silk merchant live in Kyoto. The elder is twenty, the younger, eighteen. A soldier may kill with his sword, but these girls slay men with their eyes."
+--- КОАН 52 ---
+id: the_thief_of_time
+title: Zen Dialogue
+text:
+Zen teachers train their young pupils to express themselves. Two Zen temples each had a child protégé. One child, going to obtain vegetables each morning, would meet the other on the way.
+"Where are you going?" asked the one.
+"I am going wherever my feet go," the other responded.
+This reply puzzled the first child, who went to his teacher for help. "Tomorrow morning," the teacher told him, "when you meet that little fellow, ask him the same question. He will give you the same answer, and then you ask him: 'Suppose you have no feet, then where are you going?' That will fix him."
+The children met again the following morning. "Where are you going?" asked the first child.
+"I am going wherever the wind blows," answered the other.
+This again nonplussed the youngster, who took his defeat to his teacher.
+"Ask him where he is going if there is no wind," suggested the teacher.
+The next day the children met a third time. "Where are you going?" asked the first child.
+"I am going to the market to buy vegetables," the other replied.
+--- КОАН 53 ---
+id: the_thief_of_doubt
+title: Teaching the Ultimate
+text:
+When Gasan was teaching at one time he summarized this teaching to a pupil who asked: "Have you ever read the Christian Bible?"
+"No, read it to me," said Gasan.
+The pupil opened the Bible and read from St. Matthew: "And why take ye thought for raiment? Consider the lilies of the field, how they grow. They toil not, neither do they spin, and yet I say unto you that even Solomon in all his glory was not arrayed like one of these... Take therefore no thought for the morrow, for the morrow shall take thought for the things of itself."
+Gasan said: "Whoever uttered those words I consider an enlightened man."
+The pupil continued reading: "Ask and it shall be given you, seek and ye shall find, knock and it shall be opened unto you. For everyone that asketh receiveth, and he that seeketh findeth, and to him that knocketh, it shall be opened."
+Gasan remarked: "That is excellent. Whoever said that is not far from Buddhahood."
+--- КОАН 54 ---
+id: the_thief_of_fear
+title: Temper
+text:
+A Zen student came to Bankei and complained: "Master, I have an ungovernable temper. How can I cure it?"
+"You have something very strange," replied Bankei. "Let me see what you have."
+"Just now I cannot show it to you," said the other.
+"When can you show it to me?" asked Bankei.
+"It arises unexpectedly," replied the student.
+"Then," concluded Bankei, "it must not be your own true nature. If it were, you could show it to me at any time. When you were born you did not have it, and your parents did not give it to you. Think that over."
+--- КОАН 55 ---
+id: the_thief_of_name
+title: The Sound of One Hand
+text:
+The master of Kennin temple was Mokurai, Silent Thunder. He had a little protégé named Toyo who was only twelve years old. Toyo saw the older disciples visit the master's room each morning and evening to receive instruction in sanzen or personal guidance in which they were given koans to stop mind-wandering.
+Toyo wished to do sanzen also. "Wait a while," said Mokurai. "You are too young." But the child insisted, so the teacher finally consented.
+In the evening little Toyo went at the proper time to the threshold of Mokurai's sanzen room. He struck the gong to announce his presence, bowed respectfully three times outside the door, and went to sit before the master in respectful silence.
+"You can hear the sound of two hands when they clap together," said Mokurai. "Now show me the sound of one hand."
+Toyo bowed and went to his room to consider this problem. From his window he could hear the music of the geishas. "Ah, I have it!" he proclaimed.
+The next evening, when his teacher asked him to illustrate the sound of one hand, Toyo began to play the music of the geishas.
+"No, no," said Mokurai. "That will never do. That is not the sound of one hand. You've not got it at all."
+Thinking that such music might interrupt, Toyo moved his abode to a quiet place. He meditated again. "What can the sound of one hand be?" He happened to hear some water dripping. "I have it," imagined Toyo.
+When he next appeared before his teacher, Toyo imitated dripping water.
+"What is that?" asked Mokurai. "That is the sound of dripping water, but not the sound of one hand. Try again."
+In vain Toyo meditated to hear the sound of one hand. He heard the sighing of the wind. But the sound was rejected. He heard the cry of an owl. This too was refused. The sound of one hand was not the locusts.
+For more than ten times Toyo visited Mokurai with different sounds. All were wrong. For almost a year he pondered what the sound of one hand might be.
+At last little Toyo entered true meditation and transcended all sounds. "I could collect no more," he explained later, "so I reached the soundless sound."
+Toyo had realized the sound of one hand.
+--- КОАН 56 ---
+id: chop_wood_carry_water
+title: Chop Wood, Carry Water
+text:
+Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+--- КОАН 57 ---
+id: finger_pointing_at_the_moon
+title: The Finger and the Moon
+text:
+The finger pointing at the moon is not the moon.
+--- КОАН 58 ---
+id: when_hungry_eat
+title: When Hungry, Eat
+text:
+When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but the wise will understand.
+--- КОАН 59 ---
+id: sitting_quietly
+title: Sitting Quietly
+text:
+Sitting quietly, doing nothing, spring comes, and the grass grows by itself.
+--- КОАН 60 ---
+id: wash_your_bowl
+title: Wash Your Bowl
+text:
+A monk told Joshu, "I have just entered the monastery. Please teach me." Joshu asked, "Have you eaten your rice porridge?" The monk replied, "I have." Joshu said, "Then you had better wash your bowl."
+--- КОАН 61 ---
+id: muddy_water_let_stand
+title: Muddy Water
+text:
+Muddy water is best cleared by leaving it alone.
+--- КОАН 62 ---
+id: let_go_or_be_dragged
+title: Let Go
+text:
+Let go, or be dragged.
+--- КОАН 63 ---
+id: flowers_fall
+title: Flowers Fall
+text:
+Flowers fall amid our longing, and weeds spring up amid our antipathy.
+--- КОАН 64 ---
+id: to_study_the_self
+title: To Study the Self
+text:
+To study the Way is to study the self. To study the self is to forget the self. To forget the self is to be awakened by all things.
+--- КОАН 65 ---
+id: fall_seven_stand_eight
+title: Fall Seven, Stand Eight
+text:
+Fall down seven times, stand up eight.
+--- КОАН 66 ---
+id: learn_of_the_pine
+title: Learn of the Pine
+text:
+Learn of the pine from the pine; learn of the bamboo from the bamboo.
+--- КОАН 67 ---
+id: clouds_come_and_go
+title: Clouds Come and Go
+text:
+Clouds come and go; the sky remains.
+--- КОАН 68 ---
+id: mountains_are_mountains
+title: Mountains Are Mountains
+text:
+Before I studied Zen, mountains were mountains and waters were waters. While I studied, mountains were no longer mountains and waters were no longer waters. Now that I have rested, mountains are again mountains and waters again waters.
+--- КОАН 69 ---
+id: one_moon_many_pools
+title: One Moon
+text:
+One moon shows in every pool; in every pool, the one moon.
+--- КОАН 70 ---
+id: the_gateless_gate
+title: The Gateless Gate
+text:
+The great way has no gate; a thousand roads enter it. When one passes through this gateless gate, one walks freely between heaven and earth.
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}

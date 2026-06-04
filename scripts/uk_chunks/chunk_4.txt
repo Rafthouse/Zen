@@ -1,0 +1,190 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 141 ---
+id: the_last_poem_of_ho_shin
+title: The Last Poem of Ho-Shin
+text:
+The Zen master Ho-Shin was about to die. "Is there any last poem?" asked his students. "I have no poem to write," said Ho-Shin. "I only have a few words: Do not kill. Do not steal. Do not be lustful. Do not lie. Do not take wine." "But master," said one student, "anyone can keep those precepts. What is the special teaching of Zen?" "I have no wish to deceive anyone," replied Ho-Shin. "I just keep the precepts. That is the fundamental teaching of all Buddhas and patriarchs. This is indeed the Zen teaching." "Is that all? That is too simple," said the student. "The truth is not complicated," replied Ho-Shin, and passed away.
+--- КОАН 142 ---
+id: the_story_of_shun_kai
+title: The Story of Shun-Kai
+text:
+Shun-Kai was the wife of a merchant. She was beautiful, but proud and willful. When her husband died, her relatives tried to persuade her to remarry, but she refused. She intended to become a nun and study Zen. She went to a Zen master and asked him to ordain her. The master looked at her. "You are too beautiful to become a nun," he said. "You will only bring trouble to the monastery." Shun-Kai went home. That night she heated a pot of oil, and when it was boiling she threw it over her face. In the morning she went back to the master. "Now will you ordain me?" she asked. The master looked at her scarred face. "What determination!" he said. "I will ordain you." After her ordination Shun-Kai became a devoted nun. She attained enlightenment and wrote many beautiful poems about the moon.
+--- КОАН 143 ---
+id: happy_chinaman
+title: Happy Chinaman
+text:
+Anyone who has visited China knows that the Chinese people are always smiling. They smile at you when you meet them on the road. They smile at you in the teahouse. They smile at you on the bus. This is not because they have anything special to be happy about. They smile because they have discovered the secret of happiness. The secret is this: Do not expect anything from anyone. Expect nothing, and you will never be disappointed. When you stop expecting, you begin to live in the present moment. And the present moment is the only moment there is. That is why the Chinese are happy.
+--- КОАН 144 ---
+id: a_buddha
+title: A Buddha
+text:
+In Tokyo in the Meiji era there lived two prominent teachers of opposite characteristics. One was Unsho, an instructor in Shingon. He kept Buddha's precepts scrupulously. He never drank intoxicants, nor did he eat after eleven o'clock in the morning. The other was Tanzan, a professor of philosophy at the Imperial University. He never observed the precepts. When he ate he ate without restraint, and when he slept he slept without restraint. Unsho was considered a saint by the people. One day Unsho visited Tanzan, who was drinking wine, not even a drop of which is supposed to touch a Buddhist's tongue. "Hello, brother," Tanzan greeted him. "Won't you have a drink?" "I never drink!" exclaimed Unsho solemnly. "One who does not drink is not even human," said Tanzan. "Do you mean to say I am not human just because I do not drink intoxicants?" Unsho exclaimed in anger. "Then if I am not human, what am I?" "A Buddha," answered Tanzan.
+--- КОАН 145 ---
+id: sho_un_and_his_mother
+title: Sho-Un and His Mother
+text:
+Sho-Un became a teacher of Zen. When he was still a student, his mother used to urge him to study harder. She was a very strict mother who wanted him to become a great Zen master. One day Sho-Un was visiting a distant temple. His mother, who was old and ill, wrote him a letter: "I am very ill. Come home at once." When Sho-Un received the letter he did not go home. Instead he wrote back: "I am sorry I cannot come. I am at a very important stage in my training. If I come home now I will lose all my progress. Please understand." When his mother received this letter, she became very angry. She wrote back: "You are a selfish and unfilial son. If you do not come home I will die cursing you." Still Sho-Un did not go home. He continued his Zen training. When at last he attained enlightenment, he returned home. His mother was still alive. She greeted him with tears and said: "Now I know you are a true Zen master. Forgive my anger. I was a foolish old woman."
+--- КОАН 146 ---
+id: not_far_from_buddhahood
+title: Not Far From Buddhahood
+text:
+A university student visited a Zen master and asked: "Have you ever read the Bible?" "No," answered the master, "tell me about it." The student opened the Bible and read from the Sermon on the Mount: "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin: And yet I say unto you, that even Solomon in all his glory was not arrayed like one of these." The Zen master listened quietly. "Excellent!" he exclaimed when the student had finished. "These words are not far from Buddhahood. Whoever uttered them is an enlightened being."
+--- КОАН 147 ---
+id: stingy_in_teaching
+title: Stingy in Teaching
+text:
+A Zen master named Gettan lived in the northern part of Japan. A young student came to him and asked: "Will you teach me Zen?" "I will," said Gettan, "if you can tell me what Zen is." The student was silent. "Think it over," said Gettan, "and come back when you know." The student went away and thought. He returned the next day. "Zen is the teaching of the Buddha," he said. "That is not it," said Gettan. The student went away again and thought some more. He came back a week later. "Zen is emptiness," he said. "That is not it either," said Gettan. The student went away discouraged. He returned many times with different answers but each time Gettan said no. Finally the student gave up. "Master," he said, "I have no answer. I am a fool." "Now you are ready to learn," said Gettan. "When you know nothing, you can learn everything. I will teach you Zen."
+--- КОАН 148 ---
+id: a_mothers_advice
+title: A Mother's Advice
+text:
+Jiun, a Shingon master, was the son of a Buddhist priest. When his mother was about to die, she asked him: "Will you promise me something?" "Anything, mother," said Jiun. "I want you to promise me that you will never become a Zen master," she said. "Why not?" asked Jiun. "Because I have seen too many Zen masters," she said. "They are proud and arrogant. They think they have special knowledge. They look down on ordinary people. Promise me you will be humble." Jiun promised. He became a great Shingon master. He never sat in the Zen meditation posture. He never used Zen words. But he was a Zen master just the same. When anyone asked him about Zen he would say: "I am not a Zen master. I know nothing about Zen." And he would bow and walk away.
+--- КОАН 149 ---
+id: a_smile_in_his_lifetime
+title: A Smile in His Lifetime
+text:
+Mokusen Hiki was living in a temple in the province of Tamba. One of his followers complained of the stinginess of his wife. Mokusen visited the wife and showed her his clenched fist. "What do you mean by that?" asked the surprised woman. "Suppose my fist were always like that," said Mokusen. "What would you call it?" "Deformed," replied the woman. Then he opened his hand flat in her face and asked: "Suppose it were always like that. What then?" "Another kind of deformity," said the wife. "If you understand that much," said Mokusen, "you are a good wife." He left. After his meal Mokusen returned. "I have a poem for you," he said. "Open your hand and give. Close your hand and keep. Both are deformities. The sage gives and keeps. Neither hand nor mind is tight." And he smiled.
+--- КОАН 150 ---
+id: gi_shos_work
+title: Gi-Sho's Work
+text:
+Gi-Sho was a nun who studied Zen with Bankei. She attained enlightenment after many years of practice. When Bankei confirmed her realization, he said: 'Now you understand. You must go out and teach others.' Gi-Sho shook her head. 'I don't want to teach,' she said. 'I just want to meditate in peace.' Bankei laughed. 'You think Zen is just sitting?' he said. 'Zen is life. Every moment is Zen. Every action is Zen. Go and work in the world.' Gi-Sho understood. She went to a poor village and started a school for girls. She taught them to read and write. She taught them to meditate. She lived there for many years, helping the poor. When she died the whole village mourned.
+--- КОАН 151 ---
+id: in_dreamland
+title: In Dreamland
+text:
+A young monk asked his teacher: 'Master, I had a dream last night. In the dream I was a butterfly. I flew from flower to flower. I was happy. But when I woke up I was a monk again. Which is real - the monk or the butterfly?' The master laughed. 'When you dream,' he said, 'you are the butterfly. When you wake, you are the monk. Both are real and neither is real. The truth is beyond both.' The monk was puzzled. 'But what is the truth?' he asked. The master said: 'The truth is that you are asking questions while I am trying to sleep. Good night.' And he closed his eyes.
+--- КОАН 152 ---
+id: jo_shus_zen
+title: Jo-Shu's Zen
+text:
+A monk asked Joshu: 'What is Zen?' Joshu said: 'Have you eaten your rice?' 'Yes,' said the monk. 'Then wash your bowl.' At that moment the monk was enlightened. Later another monk asked Joshu: 'What is the meaning of Bodhidharma's coming from the West?' Joshu said: 'The oak tree in the garden.' The monk was puzzled. A third monk asked: 'Does a dog have Buddha-nature?' Joshu said: 'Mu!' This is the most famous koan in all of Zen. Joshu's Zen is simple and direct. It points to the truth of everyday life.
+--- КОАН 153 ---
+id: zen_in_a_beggars_life
+title: Zen in a Beggar's Life
+text:
+Tosui was a Zen master who lived as a beggar. He wandered from village to village with only a bowl. He never preached. He never taught. He just begged for food and slept in the fields. One day a wealthy merchant recognized him. 'Master Tosui!' he exclaimed. 'Why do you live like this? You are a great Zen teacher. You could have a temple. You could have disciples.' Tosui held out his bowl. 'I have everything I need,' he said. 'I have food when I am hungry. I have a place to sleep when I am tired. I have the sky for my roof and the earth for my bed. What more could I want?' The merchant was silent. 'You are richer than I am,' he said at last. 'I own many things but I am never satisfied. You own nothing and you are content.' Tosui smiled and walked on.
+--- КОАН 154 ---
+id: how_grass_and_trees_become_enlightened
+title: How Grass and Trees Become Enlightened
+text:
+A monk asked his master: 'Do grass and trees also attain enlightenment?' The master said: 'If you say they do, you are wrong. If you say they do not, you are also wrong.' The monk was puzzled. 'What should I say then?' he asked. The master replied: 'Just ask the grass and trees themselves.' The monk went outside and asked a pine tree: 'Do you attain enlightenment?' The pine tree did not answer. The monk returned to the master. 'The pine tree did not answer me,' he said. 'Did you expect it to speak?' asked the master. 'The pine tree has been enlightened from the beginning. It does not need to speak. It does not need to attain anything. It just stands there, being a pine tree. That is its enlightenment.'
+--- КОАН 155 ---
+id: accurate_proportion
+title: Accurate Proportion
+text:
+A Zen master was painting a picture of a bamboo grove. He worked on it for many days. When he finished, he showed it to his students. 'What do you think?' he asked. 'It is beautiful,' they said, 'but the proportions seem wrong. The bamboo is too tall and the leaves are too small.' The master laughed. 'You are looking at it from the outside,' he said. 'If you want to see the true proportions, you must become the bamboo.' He took a brush and painted another picture. This time the bamboo was even taller and the leaves even smaller. 'Now,' said the master, 'this is accurate proportion. When you become the bamboo, you see it as it really is.'
+--- КОАН 156 ---
+id: sour_miso
+title: Sour Miso
+text:
+A young monk complained to his master: 'The miso soup is sour today.' The master said nothing. The next day the monk complained again: 'The miso soup is still sour.' Still the master said nothing. The third day the monk said: 'Master, the miso has been sour for three days. Should we throw it away?' The master finally spoke: 'The miso is not sour. Your mind is sour. When your mind is sour, everything tastes sour. When your mind is sweet, everything tastes sweet.' The monk felt ashamed. He stopped complaining. From then on, he tried to keep his mind sweet.
+--- КОАН 157 ---
+id: your_light_may_go_out
+title: Your Light May Go Out
+text:
+A student came to his master and said: 'I have been practicing Zen for five years and I have made no progress. I feel like giving up.' The master said: 'Have you ever seen a candle that has burned all night? In the morning, just before dawn, the flame flickers. It seems as if it will go out. But if you keep the wick trimmed, if you keep the wax fresh, the candle will burn until the sun rises. Your practice is like that. The darkest hour is just before dawn. Don't give up now. Your light may flicker, but it will not go out. Keep going. The dawn is near.' The student took heart and continued his practice. Soon after, he attained enlightenment.
+--- КОАН 158 ---
+id: the_last_will_and_testament
+title: The Last Will and Testament
+text:
+A Zen master was dying. His students gathered around him. 'Master,' they said, 'leave us your last teaching.' The master opened his eyes. 'I have nothing to leave you,' he said. 'I have taught you everything I know. Now you must walk your own path.' 'But master,' they insisted, 'at least leave us a poem.' The master smiled weakly. 'My whole life has been my poem,' he said. 'Every breath, every step, every word. If you have understood my life, you have my last teaching. If you have not, no poem will help you.' He closed his eyes. A moment later he opened them again. 'Oh, one more thing,' he said. 'Don't forget to water the garden.' Then he died.
+--- КОАН 159 ---
+id: the_tea_master
+title: The Tea Master and the Assassin
+text:
+A tea master was challenged by a samurai who wanted to kill him. The tea master was not a fighter. He was afraid. He went to a Zen master and asked for advice. The Zen master said: 'You are a tea master. When you prepare tea, you are fully present. Your mind is calm. Your movements are precise. Face the samurai with the same mind you have when you make tea.' The tea master understood. He went to meet the samurai. He bowed. He took out his tea utensils. He began to prepare tea with complete concentration. His movements were graceful and precise. The samurai watched in amazement. He had never seen such presence of mind. When the tea master finished, he offered the samurai a cup. The samurai took it and drank. Then he bowed deeply and left. He could not kill a man with such a calm and centered mind.
+--- КОАН 160 ---
+id: the_true_path
+title: The True Path
+text:
+A young monk asked his master: 'Master, which is the true path to enlightenment? Should I meditate in the mountains? Should I study the sutras? Should I serve the poor?' The master said: 'The true path is right where you are.' 'But I don't understand,' said the monk. 'I am here in the monastery. Is this the true path?' 'The true path,' said the master, 'is washing your bowl after eating. It is sweeping the floor. It is greeting your brothers. It is sitting in meditation. It is all of these and none of these. The true path is not a destination. It is the way you walk. Walk with full attention, and every step is the true path.'
+--- КОАН 161 ---
+id: the_gates_of_paradise
+title: The Gates of Paradise
+text:
+A soldier came to Hakuin and asked: 'Master, is there really a paradise and a hell?' Hakuin looked at the soldier with contempt. 'Who are you?' he asked. 'I am a samurai,' the soldier replied proudly. 'You, a samurai?' Hakuin laughed. 'You look more like a beggar to me.' The soldier became angry. He drew his sword. Hakuin said calmly: 'Here open the gates of hell.' The soldier understood. He sheathed his sword and bowed. 'And here,' said Hakuin, 'open the gates of paradise.'
+--- КОАН 162 ---
+id: arresting_the_stone_buddha
+title: Arresting the Stone Buddha
+text:
+A merchant came to a Zen master and said: 'Someone has been stealing from my shop. I suspect a monk from the nearby temple. What should I do?' The master said: 'Arrest the stone Buddha in the garden.' 'Why?' asked the merchant. 'Because the stone Buddha sees everything,' said the master. 'If you arrest the Buddha, he will tell you who stole.' The merchant arrested the stone Buddha and brought it to the magistrate. The magistrate laughed. 'Why have you brought a stone Buddha to court?' 'Because he saw the thief,' said the merchant. The magistrate understood. He said: 'The stone Buddha is innocent. The true thief is your own suspicion. Go home and forgive whoever stole from you.' The merchant went home. The next day, the stolen goods were returned anonymously.
+--- КОАН 163 ---
+id: soldiers_of_humanity
+title: Soldiers of Humanity
+text:
+A Zen master was asked about war and peace. He said: 'The greatest battle is not fought with swords. It is fought in the heart. The enemy is not another person. The enemy is your own ignorance, your own anger, your own greed. Conquer these, and you have conquered all enemies. True warriors are not those who kill others. True warriors are those who kill their own delusions. They are soldiers of humanity, fighting the war against suffering.' The student asked: 'But what about those who wage real war?' The master replied: 'They have not yet learned to fight the only battle that matters. Pity them, and teach them peace.'
+--- КОАН 164 ---
+id: in_the_hands_of_destiny
+title: In The Hands of Destiny
+text:
+A young man came to a Zen master and said: 'I am very unhappy. Everything goes wrong in my life. Nothing ever works out for me. I think I am cursed.' The master said: 'Give me your hand.' The young man held out his hand. The master studied his palm. 'I see,' said the master. 'Your lifeline shows you will live to be eighty. Your fortune line shows you will be rich. Your love line shows you will have a happy marriage. But none of this matters.' 'Why not?' asked the young man. 'Because,' said the master, 'the lines in your hand change with every thought, every action, every moment. You are not in the hands of destiny. Destiny is in your hands.'
+--- КОАН 165 ---
+id: ten_successors
+title: Ten Successors
+text:
+A Zen master was asked how many disciples he had. 'Ten,' he replied. 'But master,' said the student, 'I see only five in the meditation hall.' 'Some of my disciples are not in the hall,' said the master. 'One is a fisherman. One is a farmer. One is a merchant. One is a mother. One is a child.' The student was confused. 'How can they be your disciples if they do not meditate?' he asked. 'They meditate while fishing,' said the master. 'They meditate while farming. They meditate while selling. They meditate while raising children. They meditate while playing. Zen is not only in the meditation hall. It is everywhere. My real disciples are those who bring Zen into everyday life.'
+--- КОАН 166 ---
+id: true_reformation
+title: True Reformation
+text:
+A monk said to his master: 'I want to become a better person. I want to reform myself. What should I do?' The master asked: 'What do you think is wrong with you?' The monk listed his faults: anger, laziness, greed, pride. The master nodded. 'These are not your faults,' he said. 'These are your teachers. Each one has something to teach you. Instead of fighting them, learn from them.' 'But how?' asked the monk. 'When anger arises,' said the master, 'do not suppress it. Observe it. Where does it come from? Where does it go? When you understand anger, you are free from anger. This is true reformation - not to change yourself, but to understand yourself.'
+--- КОАН 167 ---
+id: incense_burner
+title: Incense Burner
+text:
+A student was meditating when he smelled incense. He opened his eyes and saw his master burning incense. 'Master,' said the student, 'the incense is distracting me. I cannot meditate.' The master took the incense burner and placed it in front of the student. 'Now meditate on the incense,' he said. 'Do not resist it. Become one with it.' The student closed his eyes. He breathed in the scent. He became the scent. He forgot himself. When he opened his eyes, an hour had passed. 'Now you understand,' said the master. 'Zen is not about avoiding distractions. It is about becoming one with everything, including distractions.'
+--- КОАН 168 ---
+id: three_kinds_of_disciples
+title: Three Kinds of Disciples
+text:
+A master said: 'There are three kinds of disciples. The first kind hears the teaching and immediately understands. The second kind hears the teaching and thinks about it. The third kind hears the teaching and rejects it. All three reach the same destination. It just takes different amounts of effort.' A student asked: 'Which kind am I, master?' The master said: 'The kind that asks questions instead of finding out for himself.'
+--- КОАН 169 ---
+id: fire_poker_zen
+title: Fire-Poker Zen
+text:
+A young monk was trying to light a fire. He struck match after match but the wood would not catch. He became frustrated. He struck harder. The matches broke. He threw down the box in anger. The master, who had been watching, picked up a fire poker. He stirred the ashes gently. A small ember glowed beneath the surface. He placed a piece of kindling on it and blew softly. A flame appeared. 'Sometimes,' said the master, 'the fire is already there. You just need to uncover it. Zen is not about creating something new. It is about uncovering what is already there.'
+--- КОАН 170 ---
+id: non_attachment
+title: Non-Attachment
+text:
+A monk said: 'Master, I have given up everything. I own nothing. I am free.' The master pointed to the monk's robe. 'You are attached to that robe,' he said. The monk took off his robe. 'Now I have nothing,' he said. 'You are attached to having nothing,' said the master. The monk was silent. 'Non-attachment,' said the master, 'is not about having nothing. It is about being free even when you have everything. It is about holding things lightly, with open hands. A man who clings to poverty is as attached as a man who clings to wealth.'
+--- КОАН 171 ---
+id: the_buddhas_zen
+title: The Buddha's Zen
+text:
+A student asked: 'Master, what is the Buddha's Zen?' The master held up a flower. 'Is that all?' asked the student. The master put the flower down. 'No,' he said. 'The flower is just a flower. The Buddha's Zen is not in the flower. It is in the seeing. When you see the flower without any thought, without any judgment, without any name - that is the Buddha's Zen. The flower is just a pointer. The real teaching is wordless.' The student looked at the flower. He tried to see without thinking. After a long silence, he smiled. 'I see,' he said. 'What do you see?' asked the master. 'Just a flower,' said the student.
+--- КОАН 172 ---
+id: ryo_nens_clear_realization
+title: Ryo-Nen's Clear Realization
+text:
+The Buddhist nun, known as Ryo-Nen, was born in 1797. She was a granddaughter of the famous Japanese warrior, Shingen. Her poetical genius and alluring beauty were such that at seventeen she was serving the Empress as one of the ladies of the Court. Even at such a youthful age fame awaited her. The beloved Empress died suddenly and Ryo-Nen's hopeful dreams vanished. She became acutely aware of the impermanency of life in this world. It was then that she desired to study Zen. Her relatives, however, disagreeing, practically forced her into marriage. With a promise that she might become a nun after she had borne three children, Ryo-Nen assented. Before she was twenty-five she had accomplished this condition. Then her husband and relatives could no longer dissuade her from her desire. She shaved her head, took the name of Ryo-Nen which means to realize clearly and started on her pilgrimage. She came to the city of Edo and asked Tetsu-Gyu to accept her as a disciple. At one glance the master rejected her because she was too beautiful. Ryo-Nen then went to another master, Haku-Wo. Haku-Wo refused her for the same reason, saying that her beauty would only make trouble. Ryo-Nen obtained a hot iron and placed it against her face. In a few moments her beauty had vanished forever. Haku-Wo then accepted her as a disciple. When Ryo-Nen was about to pass from this world, she wrote a poem: 'Sixty-six times have these eyes beheld the changing scene of Autumn. I have said enough about moonlight. Ask no more. Only listen to the voice of pines and cedars when no wind stirs.'
+--- КОАН 173 ---
+id: ka_san_sweat
+title: Ka-San Sweat
+text:
+Ka-San was asked to officiate at the funeral of a provincial lord. He had never met lords and nobles before, so he was nervous. When the ceremony started, Ka-San sweat. Afterwards when he had returned he gathered his pupils together. Ka-San confessed that he was not yet qualified to be a teacher, for he lacked the sameness of bearing in the world of fame that he possessed in the secluded temple. Then Ka-San resigned and became the pupil of another master. Eight years later he returned to his former pupils, enlightened.
+--- КОАН 174 ---
+id: to_suis_vinegar
+title: To-Sui's Vinegar
+text:
+To-Sui was the Zen master who left the formalism of temples to live under a bridge with beggars. When he was getting very old, a friend helped him to earn his living without begging. He showed To-Sui how to collect rice and manufacture vinegar from it, and To-Sui did this until he passed away. While To-Sui was making vinegar, one of the beggars gave him a picture of the Buddha. To-Sui hung it on the wall of his hut and put a sign beside it. It read: 'Mr. Amida Buddha: This little room is quite narrow. I can let you remain as a transient. But do not think I am asking you to help me to be reborn in your paradise.'
+--- КОАН 175 ---
+id: the_last_rap
+title: The Last Rap
+text:
+Tanzan wrote sixty postcards on the last day of his life. He asked a messenger to mail them. Then he passed away. The cards read: 'I am departing from this world. This is my last announcement. Tanzan. July 27, 1892.'
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}

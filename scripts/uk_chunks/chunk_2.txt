@@ -1,0 +1,290 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 71 ---
+id: every_day_is_a_good_day
+title: Every Day a Good Day
+text:
+Every day is a good day.
+--- КОАН 72 ---
+id: vast_emptiness_nothing_holy
+title: Vast Emptiness
+text:
+Emperor Wu asked Bodhidharma, "What is the highest meaning of the holy truths?" Bodhidharma replied, "Vast emptiness, nothing holy." The Emperor asked, "Who is this standing before me?" Bodhidharma said, "I do not know."
+--- КОАН 73 ---
+id: spring_has_a_hundred_flowers
+title: A Hundred Flowers
+text:
+Hundreds of flowers in spring, the moon in autumn, a cool breeze in summer, snow in winter. If your mind is not clouded by needless things, this is the finest season of your life.
+--- КОАН 74 ---
+id: great_doubt_great_awakening
+title: Great Doubt
+text:
+Great doubt, great awakening; little doubt, little awakening; no doubt, no awakening.
+--- КОАН 75 ---
+id: ordinary_mind_is_the_way
+title: Ordinary Mind Is the Way
+text:
+Joshu asked Nansen, "What is the Way?" Nansen answered, "Ordinary mind is the Way." Joshu asked, "Shall I try to seek after it?" Nansen said, "If you try for it, you will become separated from it."
+--- КОАН 76 ---
+id: the_wild_geese
+title: The Wild Geese
+text:
+The wild geese do not intend to cast their reflection; the water has no mind to receive their image.
+--- КОАН 77 ---
+id: no_traces
+title: No Traces
+text:
+When the bird flies, it leaves no trace; when the wind passes, the bamboo does not keep its sound.
+--- КОАН 78 ---
+id: wherever_you_stand
+title: Be the Master
+text:
+Wherever you stand, be the master of the situation, and the place where you stand will be true.
+--- КОАН 79 ---
+id: the_frog_in_the_well
+title: The Frog in the Well
+text:
+You cannot speak of the ocean to a frog in a well — it is bound by the space it lives in.
+--- КОАН 80 ---
+id: snow_in_a_silver_bowl
+title: Snow in a Silver Bowl
+text:
+Snow is heaped in a silver bowl; a white heron hides in the bright moonlight. They are alike, yet not the same; side by side, you can tell them apart.
+--- КОАН 81 ---
+id: not_thinking
+title: Beyond Thinking
+text:
+A monk asked, "What do you think of, sitting so still in meditation?" The master said, "I think of not-thinking." "How do you think of not-thinking?" "Beyond thinking."
+--- КОАН 82 ---
+id: the_bird_sings
+title: Why the Bird Sings
+text:
+A bird does not sing because it has an answer. It sings because it has a song.
+--- КОАН 83 ---
+id: keep_climbing
+title: Keep Climbing
+text:
+When you reach the top of the mountain, keep climbing.
+--- КОАН 84 ---
+id: sit_and_be_still
+title: Sit
+text:
+You should sit in meditation for twenty minutes a day — unless you are too busy; then you should sit for an hour.
+--- КОАН 85 ---
+id: no_seed_no_harvest
+title: The Tree and the Seed
+text:
+The best time to plant a tree was twenty years ago. The second best time is now.
+--- КОАН 86 ---
+id: the_obstacle_is_the_path
+title: The Obstacle Is the Path
+text:
+The obstacle is the path.
+--- КОАН 87 ---
+id: empty_your_boat
+title: The Empty Boat
+text:
+If a man crosses a river and an empty boat collides with his own, he will not become angry. But if he sees a man in the boat, he will shout at him to steer clear. If the boat were empty, he would not be shouting. Empty your own boat as you cross the river of the world.
+--- КОАН 88 ---
+id: water_does_not_resist
+title: Be Like Water
+text:
+Nothing in the world is softer than water, yet nothing is better at overcoming the hard and strong.
+--- КОАН 89 ---
+id: the_lamp_of_the_self
+title: Be a Lamp
+text:
+Be a lamp unto yourself. Work out your own liberation with diligence.
+--- КОАН 90 ---
+id: if_you_meet_the_buddha
+title: On the Road
+text:
+If you meet the Buddha on the road, do not cling even to him; lean on no one, and stand free.
+--- КОАН 91 ---
+id: hyakujos_fox
+title: Hyakujo's Fox
+text:
+Once when Hyakujo delivered some Zen lectures an old man attended them, unseen by the monks. At the end of each talk when the monks left so did he. But one day he remained after they had gone, and Hyakujo asked him: "Who are you?"
+
+The old man replied: "I am not a human being,  but I was a human being when the Kashapa Buddha preached in this world. I was a Zen master and lived on this mountain. At that time one of my students asked me whether or not the enlightened man is subject to the law of causation. I answered him: 'The enlightened man is not subject to the law of causation.' For this answer evidencing a clinging to absoluteness I became a fox for five hundred rebirths, and I am still a fox. Will you save me from this condition with your Zen words and let me get out of a fox's body? Now may I ask you: Is the enlightened man subject to the law of causation?"
+
+Hyakujo said: "The enlightened man is one with the law of causation."
+
+At the words of Hyakujo the old man was enlightened. "I am emancipated," he said, paying homage with a deep bow. "I am no more a fox, but I have to leave my body in my dwelling place behind this mountain. Please perform my funeral as a monk." Then he disappeared.
+
+The next day Hyakujo gave an order through the chief monk to prepare to attend the funeral of a monk. "No one was sick in the infirmary," wondered the monks. "What does our teacher mean?"
+
+After dinner Hyakujo led the monks out and around the mountain. In a cave, with his staff he poked out the corpse of an old fox and then performed the ceremony of cremation.
+
+That evening Hyakujo gave a talk to the monks and told them this story about the law of causation.
+
+Obaku, upon hearing the story, asked Hyakujo: "I understand that a long time ago because a certain person gave a wrong Zen answer he became a fox for five hundred rebirths. Now I want to  ask: If some modern master is asked many questions and he always gives the right answer, what will become of him?"
+
+Hyakujo said: "You come here near me and I will tell you."
+
+Obaku went near Hyakujo and slapped the teacher's face with his hand, for he knew this was the answer his teacher intended to give him.
+
+Hyakujo clapped his hands and laughed at this discernment. "I thought a Persian had a red beard," he said, "and now I know a Persian who has a red beard."
+--- КОАН 92 ---
+id: guteis_finger
+title: Gutei's Finger
+text:
+Gutei raised his finger whenever he was asked a question about Zen. A boy attendant began to imitate him in this way. When anyone asked the boy what his master had preached about, the boy would raise his finger.
+
+Gutei heard about the boy's mischief. He seized  him and cut off his finger. The boy cried and ran away. Gutei called and stopped him. When the boy turned his head to Gutei, Gutei raised up his own finger. In that instant the boy was enlightened.
+
+When Gutei was about to pass from this world he gathered his monks around him. "I attained my finger-Zen," he said, "from my teacher Tenryu, and in my whole life I could not exhaust it." Then he passed away.
+--- КОАН 93 ---
+id: a_beardless_foreigner
+title: A Beardless Foreigner
+text:
+Wakuan complained when he saw a picture of bearded Bodhidharma: "Why hasn't that fellow a beard?"
+--- КОАН 94 ---
+id: kyogen_mounts_the_tree
+title: Kyogen Mounts the Tree
+text:
+Kyogen said: "Zen is like a man hanging in a tree by his teeth over a precipice. His hands grasp no branch, his feet rest on no limb, and under the tree another person asks him: 'Why did Bodhidharma come to China from India?'
+
+"If the man in the tree does not answer, he fails; and if he does answer, he falls and loses his life. Now what shall he do?"
+--- КОАН 95 ---
+id: buddha_twirls_a_flower
+title: Buddha Twirls a Flower
+text:
+When Buddha was in Grdhrakuta mountain he turned a flower in his fingers and held it before his listeners. Every one was silent. Only Maha-Kashapa smiled at this revelation, although he tried to control the lines of his face.
+
+Buddha said: "I have the eye of the true teaching, the heart of Nirvana, the true aspect of non-form, and the ineffable stride of Dharma. It is not expressed by words, but especially transmitted beyond teaching. This teaching I have given to Maha-Kashapa."
+--- КОАН 96 ---
+id: joshu_washes_the_bowl
+title: Joshu Washes the Bowl
+text:
+A monk told Joshu: "I have just entered the monastery. Please teach me."
+
+Joshu asked: "Have you eaten your rice porridge?"
+
+The monk replied: "I have eaten."
+
+Joshu said: "Then you had better wash your bowl."
+
+At that moment the monk was enlightened.
+--- КОАН 97 ---
+id: keichus_wheel
+title: Keichu's Wheel
+text:
+Getsuan said to his students: "Keichu, the first wheel-maker of China, made two wheels of fifty spokes each. Now, suppose you removed the nave uniting the spokes. What would become of the wheel? And had Keichu done this, could he be called the master wheel-maker?"
+--- КОАН 98 ---
+id: a_buddha_before_history
+title: A Buddha before History
+text:
+A monk asked Seijo: "I understand that a Buddha who lived before recorded history sat in meditation for ten cycles of existence and could not realize the highest truth, and so could not become fully emancipated. Why was this so?"
+
+Seijo replied: "Your question is self-explanatory."
+
+The monk asked: "Since the Buddha was meditating, why could he not fulfill Buddhahood?"
+
+Seijo said: "He was not a Buddha."
+--- КОАН 99 ---
+id: seizei_alone_and_poor
+title: Seizei Alone and Poor
+text:
+A monk named Seizei asked of Sozan: "Seizei is alone and poor. Will you give him support?"
+
+Sozan asked: "Seizei?"
+
+Seizei responded: "Yes, sir."
+
+Sozan said: "You have Zen, the best wine in China, and already have finished three cups, and still you are saying that they did not even wet your lips."
+--- КОАН 100 ---
+id: joshu_examines_a_monk_in_meditation
+title: Joshu Examines a Monk in Meditation
+text:
+Joshu went to a place where a monk had retired to meditate and asked him: "What is, is what?"
+
+The monk raised his fist.
+
+Joshu replied: "Ships cannot remain where the water is too shallow." And he left.
+
+A few days later Joshu went again to visit the monk and asked the same question.
+
+The monk answered the same way.
+
+Joshu said: "Well given, well taken, well killed, well saved." And he bowed to the monk.
+--- КОАН 101 ---
+id: zuigan_calls_his_own_master
+title: Zuigan Calls His Own Master
+text:
+Zuigan called out to himself every day: "Master."
+
+Then he answered himself: "Yes, sir."
+
+And after that he added: "Become sober."
+
+Again he answered: "Yes, sir."
+
+"And after that," he continued, "do not be deceived by others."
+
+"Yes, sir; yes, sir," he answered.
+--- КОАН 102 ---
+id: tokusan_holds_his_bowl
+title: Tokusan Holds His Bowl
+text:
+Tokusan went to the dining room from the meditation hall holding his bowl. Seppo was on duty cooking. When he met Tokusan he said: "The dinner drum is not yet beaten. Where are you going with your bowl?"
+
+So Tokusan returned to his room.
+
+Seppo told Ganto about this. Ganto said: "Old Tokusan did not understand ultimate truth."
+
+Tokusan heard of this remark and asked Ganto to come to him. "I have heard," he said, "you are not approving my Zen." Ganto admitted this indirectly. Tokusan said nothing.
+
+The next day Tokusan delivered an entirely different kind of lecture to the monks. Ganto laughed and clapped his hands, saying: "I see our old man understands ultimate truth indeed. None in China can surpass him."
+--- КОАН 103 ---
+id: nansen_cuts_the_cat_in_two
+title: Nansen Cuts the Cat in Two
+text:
+Nansen saw the monks of the eastern and western halls fighting over a cat. He seized the cat and told the monks: "If any of you say a good word, you can save the cat."
+
+No one answered. So Nansen boldly cut the cat in two pieces.
+
+That evening Joshu returned and Nansen told him about this. Joshu removed his sandals and, placing them on his head, walked out.
+
+Nansen said: "If you had been there, you could have saved the cat."
+--- КОАН 104 ---
+id: tozans_three_blows
+title: Tozan's Three Blows
+text:
+Tozan went to Ummon. Ummon asked him where he had come from.
+
+Tozan said: "From Sato village." 
+
+Ummon asked: "In what temple did you remain for the summer?"
+
+Tozan replied: "The temple of Hoji, south of the lake."
+
+"When did you leave there?" asked Ummon, wondering how long Tozan would continue with such factual answers.
+
+"The twenty-fifth of August," answered Tozan.
+
+Ummon said: "I should give you three blows with a stick, but today I forgive you."
+
+The next day Tozan bowed to Ummon and asked: "Yesterday you forgave me three blows. I do not know why you thought me wrong."
+
+Ummon, rebuking Tozan's spiritless responses, said: "You are good for nothing. You simply wander from one monastery to another."
+
+Before Ummon's words were ended Tozan was enlightened.
+--- КОАН 105 ---
+id: bells_and_robes
+title: Bells and Robes
+text:
+Ummon asked: "The world is such a wide world, why do you answer a bell and don ceremonial robes?"
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}

@@ -1,0 +1,347 @@
+Ти — літературний перекладач дзен-текстів з англійської на українську.
+
+Твоє завдання: перекласти заголовок (title) і текст (text) 35 дзен-коанів.
+
+СТИЛЬ: літературна українська, лаконічна, поетична. Не буквально — передавай суть і настрій.
+Заголовки: короткі, природні. Імена майстрів: залишай в оригіналі (Joshu, Bankei, Hakuin etc.), але пиши їх кирилицею де впізнавано.
+Терміни: Zen → дзен, Buddha → Будда, Master → Майстер, monk → монах, disciple → учень.
+
+--- КОАН 1 ---
+id: obedience
+title: Obedience
+text:
+The master Bankei's talks were attended not only by Zen students but by persons of all ranks and sects. He never quoted sutras nor indulged in scholastic dissertations. Instead, his words were spoken directly from his heart to the hearts of his listeners.
+His large audiences angered a priest of the Nichiren sect because the adherents had left to hear about Zen. The self-centered Nichiren priest came to the temple, determined to have a debate with Bankei.
+"Hey, Zen teacher!" he called out. "Wait a minute. Whoever respects you will obey what you say, but a man like myself does not respect you. Can you make me obey you?"
+"Come up beside me and I will show you," said Bankei. Proudly the priest pushed his way through the crowd to the teacher.
+Bankei smiled. "Come over to my left side." The priest obeyed.
+"No," said Bankei, "we may talk better if you are on the right side. Step over here." The priest proudly stepped over to the right.
+"You see," observed Bankei, "you are obeying me and I think you are a very gentle person. Now sit down and listen."
+--- КОАН 2 ---
+id: the_strawberry
+title: A Parable
+text:
+A man travelling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild vine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him.
+Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him. Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted!
+--- КОАН 3 ---
+id: the_first_principle
+title: The First Principle
+text:
+When one goes to Obaku temple in Kyoto he sees carved over the gate the words "The First Principle." The letters are unusually large, and those who appreciate calligraphy always admire them as being a masterpiece. They were drawn by Kosen two hundred years ago.
+When the master drew them he did so on paper, from which workmen made the larger carving in wood. As Kosen sketched the letters a bold pupil was with him who had made several gallons of ink for the calligraphy and who never failed to criticize his master's work.
+"That is not good," he told Kosen after the first effort.
+"How is this one?"
+"Poor. Worse than before," pronounced the pupil.
+Kosen patiently wrote one sheet after another until eighty-four First Principles had accumulated, still without the approval of the pupil.
+Then, when the young man stepped outside for a few moments, Kosen thought: "Now is my chance to escape his keen eye," and he wrote hurriedly, with a mind free from distraction: "The First Principle."
+"A masterpiece," pronounced the pupil.
+--- КОАН 4 ---
+id: the_thief_who_became_a_disciple
+title: The Thief Who Became a Disciple
+text:
+One evening as Shichiri Kojun was reciting sutras a thief with a sharp sword entered, demanding either his money or his life.
+Shichiri told him: "Do not disturb me. You can find the money in that drawer." Then he resumed his recitation.
+A little while afterwards he stopped and called: "Don't take it all. I need some to pay taxes tomorrow."
+The intruder gathered up most of the money and started to leave. "Thank a person when you receive a gift," Shichiri added. The man thanked him and made off.
+A few days afterwards the fellow was caught and confessed, among others, the offence against Shichiri. When Shichiri was called as a witness he said: "This man is no thief, at least as far as I am concerned. I gave him the money and he thanked me for it."
+After he had finished his prison term, the man went to Shichiri and became his disciple.
+--- КОАН 5 ---
+id: the_tunnel
+title: The Tunnel
+text:
+Zenkai, the son of a samurai, journeyed to Edo and there became the retainer of a high official. He fell in love with the official's wife and was discovered. In self-defence, he slew the official. Then he ran away with the wife.
+Both of them later became thieves. But the woman was so greedy that Zenkai grew disgusted. Finally, leaving her, he journeyed far away to the province of Buzen, where he became a wandering mendicant.
+To atone for his past, Zenkai resolved to accomplish some good deed in his lifetime. Knowing of a dangerous road over a cliff that had caused the death and injury of many persons, he resolved to cut a tunnel through the mountain there.
+Begging food in the daytime, Zenkai worked at night digging his tunnel. When thirty years had gone by, the tunnel was 2,280 feet long, 20 feet high, and 30 feet wide.
+Two years before the work was completed, the son of the official he had slain, who was a skillful swordsman, found Zenkai out and came to kill him in revenge.
+"I will give you my life willingly," said Zenkai. "Only let me finish this work. On the day it is completed, then you may kill me."
+So the son awaited the day. Several months passed and Zenkai kept on digging. The son grew tired of doing nothing and began to help with the digging. After he had helped for more than a year, he came to admire Zenkai's strong will and character.
+At last the tunnel was completed and the people could use it and travel in safety.
+"Now cut off my head," said Zenkai. "My work is done."
+"How can I cut off my own teacher's head?" asked the younger man with tears in his eyes.
+--- КОАН 6 ---
+id: no_work_no_food
+title: No Work, No Food
+text:
+Hyakujo, the Chinese Zen master, used to labor with his pupils even at the age of eighty, trimming the gardens, cleaning the grounds, and pruning the trees.
+The pupils felt sorry to see the old teacher working so hard, but they knew he would not listen to their advice to stop, so they hid away his tools.
+That day the master did not eat. The next day he did not eat, nor the next. "He may be angry because we have hidden his tools," the pupils surmised. "We had better put them back."
+The day they did, the teacher worked and ate the same as before. In the evening he instructed them: "No work, no food."
+--- КОАН 7 ---
+id: the_real_miracle
+title: The Real Miracle
+text:
+When Bankei was preaching at Ryumon temple, a Shinshu priest, who believed in salvation through the repetition of the name of the Buddha of Love, was jealous of his large audience and wanted to debate with him.
+Bankei was in the midst of a talk when the priest appeared, but the fellow made such a disturbance that Bankei stopped his discourse and asked about the noise.
+"The founder of our sect," boasted the priest, "had such miraculous powers that he held a brush in his hand on one bank of the river, his attendant held up a paper on the other bank, and the teacher wrote the holy name of Amida through the air. Can you do such a wonderful thing?"
+Bankei replied lightly: "Perhaps your fox can perform that trick, but that is not the manner of Zen. My miracle is that when I feel hungry I eat, and when I feel thirsty I drink."
+--- КОАН 8 ---
+id: just_go_to_sleep
+title: Just Go to Sleep
+text:
+Gasan was sitting at the bedside of Tekisui three days before his teacher's passing. Tekisui had already chosen him as his successor.
+A temple recently had burned and Gasan was busy rebuilding the structure. Tekisui asked him: "What are you going to do when you get the temple rebuilt?"
+"When your sickness is over we want you to speak there," said Gasan.
+"Suppose I do not live until then?"
+"Then we will get someone else," replied Gasan.
+"Suppose you cannot find anyone?" continued Tekisui.
+Gasan answered loudly: "Don't ask such foolish questions. Just go to sleep."
+--- КОАН 9 ---
+id: the_giver_should_be_thankful
+title: The Giver Should Be Thankful
+text:
+While Seisetsu was the master of Engaku in Kamakura he required larger quarters, since those in which he was teaching were overcrowded. Umezu Seibei, a merchant of Edo, decided to donate five hundred pieces of gold called ryo toward the construction of a more commodious school. This money he brought to the teacher.
+Seisetsu said: "All right. I will take it."
+Umezu gave Seisetsu the sack of gold, but he was dissatisfied with the attitude of the teacher. One might live a whole year on three ryo, and the merchant had not even been thanked for five hundred.
+"In that sack are five hundred ryo," hinted Umezu.
+"You told me that before," replied Seisetsu.
+"Even if I am a wealthy merchant, five hundred ryo is a lot of money," said Umezu.
+"Do you want me to thank you for it?" asked Seisetsu.
+"You ought to," replied Umezu.
+"Why should I?" inquired Seisetsu. "The giver should be thankful."
+--- КОАН 10 ---
+id: everything_is_best
+title: Everything Is Best
+text:
+When Banzan was walking through a market he overheard a conversation between a butcher and his customer.
+"Give me the best piece of meat you have," said the customer.
+"Everything in my shop is the best," replied the butcher. "You cannot find here any piece of meat that is not the best."
+At these words Banzan became enlightened.
+--- КОАН 11 ---
+id: the_stone_mind
+title: The Stone Mind
+text:
+Hogen, a Chinese Zen teacher, lived alone in a small temple in the country. One day four travelling monks appeared and asked if they might make a fire in his yard to warm themselves.
+While they were building the fire, Hogen heard them arguing about subjectivity and objectivity. He joined them and said: "There is a big stone. Do you consider it to be inside or outside your mind?"
+One of the monks replied: "From the Buddhist viewpoint everything is an objectification of mind, so I would say that the stone is inside my mind."
+"Your head must feel very heavy," observed Hogen, "if you are carrying around a stone like that in your mind."
+--- КОАН 12 ---
+id: open_your_own_treasure_house
+title: Open Your Own Treasure House
+text:
+Daiju visited the master Baso in China. Baso asked: "What do you seek?"
+"Enlightenment," replied Daiju.
+"You have your own treasure house. Why do you search outside?" Baso asked.
+Daiju inquired: "Where is my treasure house?"
+Baso answered: "What you are asking is your treasure house."
+Daiju was enlightened! Ever after he urged his friends: "Open your own treasure house and use those treasures."
+--- КОАН 13 ---
+id: the_voice_of_happiness
+title: The Voice of Happiness
+text:
+After Bankei had passed away, a blind man who lived near the master's temple told a friend:
+"Since I am blind, I cannot watch a person's face, so I must judge his character by the sound of his voice. Ordinarily when I hear someone congratulate another upon his happiness or success, I also hear a secret tone of envy. When condolence is expressed for the misfortune of another, I hear pleasure and satisfaction, as if the one condoling was really glad there was something left to gain in his own world.
+In all my experience, however, Bankei's voice was always sincere. Whenever he expressed happiness, I heard nothing but happiness, and whenever he expressed sorrow, sorrow was all I heard."
+--- КОАН 14 ---
+id: eating_the_blame
+title: Eating the Blame
+text:
+Circumstances arose one day which delayed preparation of the dinner of a Soto Zen master, Fugai, and his followers. In haste the cook went to the garden with his curved knife and cut off the tops of green vegetables, chopped them together, and made soup, unaware that in his haste he had included a part of a snake in the vegetables.
+The followers of Fugai thought they never had tasted such great soup. But when the master himself found the snake's head in his bowl, he summoned the cook. "What is this?" he demanded, holding up the head of the snake.
+"Oh, thank you, master," replied the cook, taking the morsel and eating it quickly.
+--- КОАН 15 ---
+id: the_most_valuable_thing
+title: The Most Valuable Thing in the World
+text:
+Sozan, a Chinese Zen master, was asked by a student: "What is the most valuable thing in the world?"
+The master replied: "The head of a dead cat."
+"Why is the head of a dead cat the most valuable thing in the world?" inquired the student.
+Sozan replied: "Because no one can name its price."
+--- КОАН 16 ---
+id: right_and_wrong
+title: Right and Wrong
+text:
+When Bankei held his seclusion-weeks of meditation, pupils from many parts of Japan came to attend. During one of these gatherings a pupil was caught stealing. The matter was reported to Bankei with the request that the culprit be expelled. Bankei ignored the case.
+Later the pupil was caught in a similar act, and again Bankei disregarded the matter. This angered the other pupils, who drew up a petition asking for the dismissal of the thief, stating that otherwise they would leave in a body.
+When Bankei had read the petition he called everyone before him. "You are wise brothers," he told them. "You know what is right and what is not right. You may go somewhere else to study if you wish, but this poor brother does not even know right from wrong. Who will teach him if I do not? I am going to keep him here even if all the rest of you leave."
+A torrent of tears cleansed the face of the brother who had stolen. All desire to steal had vanished.
+--- КОАН 17 ---
+id: the_stingy_artist
+title: The Stingy Artist
+text:
+Gessen was an artist monk. Before he would start a drawing or painting he always insisted upon being paid in advance, and his fees were high. He was known as the "Stingy Artist."
+A geisha once gave him a commission for a painting. "How much can you pay?" inquired Gessen.
+"Whatever you charge," replied the girl, "but I want you to do the work in front of me."
+So on a certain day Gessen was called by the geisha. She was holding a feast for her patron. Gessen with fine brush work did the painting. When it was completed he asked the highest sum of his time.
+He received his pay. Then the geisha turned to her patron, saying: "All this artist wants is money. His paintings are fine but his mind is dirty; money has caused it to become muddy. Drawn by such a filthy mind, his work is not fit to exhibit. It is just about good enough for one of my petticoats."
+Removing her skirt, she then asked Gessen to do another picture on the back of her petticoat.
+"How much will you pay?" asked Gessen.
+"Oh, any amount," answered the girl.
+Gessen named a fancy price, painted the picture in the manner requested, and went away.
+It was learned later that Gessen had these reasons for desiring money: A ravaging famine often visited his province. The rich would not help the poor, so Gessen had a secret warehouse, unknown to anyone, which he kept filled with grain, prepared for these emergencies. From his village to the National Shrine the road was in very poor condition and many travellers suffered while traversing it. He desired to build a better road. His teacher had passed away without realizing his wish to build a temple, and Gessen wished to complete this temple for him.
+After Gessen had accomplished his three wishes he threw away his brushes and artist's materials and, retiring to the mountains, never painted again.
+--- КОАН 18 ---
+id: black_nosed_buddha
+title: Black-Nosed Buddha
+text:
+A nun who was searching for enlightenment made a statue of Buddha and covered it with gold leaf. Wherever she went she carried this golden Buddha with her.
+Years passed and, still carrying her Buddha, the nun came to live in a small temple in a country where there were many Buddhas, each one with its own particular shrine.
+The nun wished to burn incense before her golden Buddha. Not liking the idea of the perfume straying to the others, she devised a funnel through which the smoke would ascend only to her statue. This blackened the nose of the golden Buddha, making it especially ugly.
+--- КОАН 19 ---
+id: the_real_prosperity
+title: Real Prosperity
+text:
+A rich man asked Sengai to write something for the continued prosperity of his family so that it might be treasured from generation to generation.
+Sengai obtained a large sheet of paper and wrote: "Father dies, son dies, grandson dies."
+The rich man became angry. "I asked you to write something for the happiness of my family! Why do you make such a joke as this?"
+"No joke is intended," explained Sengai. "If before you yourself die your son should die, this would grieve you greatly. If your grandson should pass away before your son, both of you would be broken-hearted. If your family, generation after generation, passes away in the order I have named, it will be the natural course of life. I call this real prosperity."
+--- КОАН 20 ---
+id: every_minute_zen
+title: Every-Minute Zen
+text:
+Zen students are with their masters at least ten years before they presume to teach others. Nan-in was visited by Tenno, who, having passed his apprenticeship, had become a teacher. The day happened to be rainy, so Tenno wore wooden clogs and carried an umbrella. After greeting him Nan-in remarked: "I suppose you left your wooden clogs in the vestibule. I want to know if your umbrella is on the right or left side of the clogs."
+Tenno, confused, had no instant answer. He realized that he was unable to carry his Zen every minute. He became Nan-in's pupil, and he studied six more years to accomplish his every-minute Zen.
+--- КОАН 21 ---
+id: flower_shower
+title: A Flower Shower
+text:
+Subhuti was Buddha's disciple. He was able to understand the potency of emptiness, the viewpoint that nothing exists except in its relationship of subjectivity and objectivity.
+One day Subhuti, in a mood of sublime emptiness, was sitting under a tree. Flowers began to fall about him.
+"We are praising you for your discourse on emptiness," the gods whispered to him.
+"But I have not spoken of emptiness," said Subhuti.
+"You have not spoken of emptiness, we have not heard emptiness," responded the gods. "This is true emptiness." And blossoms showered upon Subhuti as rain.
+--- КОАН 22 ---
+id: publishing_the_sutras
+title: Publishing the Sutras
+text:
+Tetsugen, a devotee of Zen in Japan, decided to publish the sutras, which at that time were available only in Chinese. The books were to be printed with wood blocks in an edition of seven thousand copies, a tremendous undertaking.
+Tetsugen began by travelling and collecting donations for this purpose. A few sympathizers would give him a hundred pieces of gold, but most of the time he received only small coins. He thanked each donor with equal gratitude. After ten years Tetsugen had enough money to begin his task.
+It happened that at that time the Uji River overflowed. Famine followed. Tetsugen took the funds he had collected for the books and spent them to save others from starvation. Then he began again his work of collecting.
+Several years afterwards an epidemic spread over the country. Tetsugen again gave away what he had collected, to help his people.
+For a third time he started his work, and after twenty years his wish was fulfilled. The printing blocks which produced the first edition of sutras can be seen today in the Obaku monastery in Kyoto.
+The Japanese tell their children that Tetsugen made three sets of sutras, and that the first two invisible sets surpass even the last.
+--- КОАН 23 ---
+id: the_taste_of_banzos_sword
+title: The Taste of Banzo's Sword
+text:
+Matajuro Yagyu was the son of a famous swordsman. His father, believing that his son's work was too mediocre to anticipate mastership, disowned him.
+So Matajuro went to Mount Futara and there found the famous swordsman Banzo. But Banzo confirmed the father's judgment. "You wish to learn swordsmanship under my guidance?" asked Banzo. "You cannot fulfill the requirements."
+"But if I work hard, how many years will it take me to become a master?" persisted the youth.
+"The rest of your life," replied Banzo.
+"I cannot wait that long," explained Matajuro. "I am willing to pass through any hardship if only you will teach me. If I become your devoted servant, how long might it be?"
+"Oh, maybe ten years," Banzo relented.
+"My father is getting old, and soon I must take care of him," continued Matajuro. "If I work far more intensively, how long would it take me?"
+"Oh, maybe thirty years," said Banzo.
+"Why is that?" asked Matajuro. "First you say ten and now thirty years. I will undergo any hardship to master this art in the shortest time!"
+"Well," said Banzo, "in that case you will have to remain with me for seventy years. A man in such a hurry as you are to get results seldom learns quickly."
+"Very well," declared the youth, understanding at last that he was being rebuked for impatience, "I agree."
+Matajuro was told never to speak of fencing and never to touch a sword. He cooked for his master, washed the dishes, made his bed, cleaned the yard, cared for the garden, all without a word of swordsmanship.
+Three years passed. Still Matajuro labored on. Thinking of his future, he was sad. He had not even begun to learn the art to which he had devoted his life.
+But one day Banzo crept up behind him and gave him a terrific blow with a wooden sword. The following day, when Matajuro was cooking rice, Banzo again sprang upon him unexpectedly.
+After that, day and night, Matajuro had to defend himself from unexpected thrusts. Not a moment passed in any day that he did not have to think of the taste of Banzo's sword.
+He learned so rapidly he brought smiles to the face of his master. Matajuro became the greatest swordsman in the land.
+--- КОАН 24 ---
+id: the_dead_mans_answer
+title: The Dead Man's Answer
+text:
+When Mamiya, who later became a well-known preacher, went to a teacher for personal guidance, he was asked to explain the sound of one hand.
+Mamiya concentrated upon what the sound of one hand might be. "You are not working hard enough," his teacher told him. "You are too attached to food, wealth, things, and that sound. It would be better if you died. That would solve the problem."
+The next time Mamiya appeared before his teacher he was again asked what he had to show regarding the sound of one hand. Mamiya at once fell over as if he were dead.
+"You are dead all right," observed the teacher, "but how about that sound?"
+"I haven't solved that yet," replied Mamiya, looking up.
+"Dead men do not speak," said the teacher. "Get out!"
+--- КОАН 25 ---
+id: a_drop_of_water
+title: A Drop of Water
+text:
+A Zen master named Gisan asked a young student to bring him a pail of water to cool his bath.
+The student brought the water and, after cooling the bath, threw on to the ground the little that was left over.
+"You dunce!" the master scolded him. "Why didn't you give the rest of the water to the plants? What right have you to waste even a drop of water in this temple?"
+The young student attained Zen in that instant. He changed his name to Tekisui, which means a drop of water.
+--- КОАН 26 ---
+id: time_to_die
+title: Time to Die
+text:
+Ikkyu, the Zen master, was very clever even as a boy. His teacher had a precious teacup, a rare antique. Ikkyu happened to break this cup and was greatly perplexed. Hearing the footsteps of his teacher, he held the pieces of the cup behind him. When the master appeared, Ikkyu asked: "Why do people have to die?"
+"This is natural," explained the older man. "Everything has to die and has just so long to live."
+Ikkyu, producing the shattered cup, added: "It was time for your cup to die."
+--- КОАН 27 ---
+id: gudo_and_the_emperor
+title: Gudo and the Emperor
+text:
+The emperor Goyozei was studying Zen under Gudo. He inquired: "In Zen this very mind is Buddha. Is this correct?"
+Gudo answered: "If I say yes, you will think that you understand without understanding. If I say no, I would be contradicting a fact which many understand quite well."
+On another day the emperor asked Gudo: "Where does the enlightened man go when he dies?"
+Gudo answered: "I know not."
+"Why don't you know?" asked the emperor.
+"Because I have not died yet," replied Gudo.
+The emperor hesitated to inquire further about these things his mind could not grasp. So Gudo beat the floor with his hand as if to awaken him, and the emperor was enlightened!
+--- КОАН 28 ---
+id: calling_card
+title: Calling Card
+text:
+Keichu, the great Zen teacher of the Meiji era, was the head of Tofuku, a cathedral in Kyoto. One day the governor of Kyoto called upon him for the first time.
+His attendant presented the card of the governor, which read: Kitagaki, Governor of Kyoto.
+"I have no business with such a fellow," said Keichu to his attendant. "Tell him to get out of here."
+The attendant carried the card back with apologies. "That was my error," said the governor, and with a pencil he scratched out the words Governor of Kyoto. "Ask your teacher again."
+"Oh, is that Kitagaki?" exclaimed the teacher when he saw the card. "I want to see that fellow."
+--- КОАН 29 ---
+id: the_blockhead_lord
+title: The Blockhead Lord
+text:
+Two Zen teachers, Daigu and Gudo, were invited to visit a lord. Upon arriving, Gudo said to the lord: "You are wise by nature and have an inborn ability to learn Zen."
+"Nonsense," said Daigu. "Why do you flatter this blockhead? He may be a lord, but he knows nothing of Zen."
+So, instead of building a temple for Gudo, the lord built it for Daigu and studied Zen with him.
+--- КОАН 30 ---
+id: the_silent_temple
+title: The Silent Temple
+text:
+Shoichi was a one-eyed teacher of Zen, sparkling with enlightenment. He taught his disciples in Tofuku temple.
+Day and night the whole temple stood in silence. There was no sound at all.
+Even the reciting of sutras was abolished by the teacher. His pupils had nothing to do but meditate.
+When the master passed away, an old neighbor heard the ringing of bells and the recitation of sutras. Then she knew Shoichi had gone.
+--- КОАН 31 ---
+id: my_heart_burns_like_fire
+title: My Heart Burns Like Fire
+text:
+Soyen Shaku, the first Zen teacher to come to America, said: "My heart burns like fire but my eyes are as cold as dead ashes." He made the following rules which he practiced every day of his life.
+In the morning before dressing, light incense and meditate. Retire at a regular hour. Partake of food at regular intervals. Eat with moderation and never to the point of satisfaction. Receive a guest with the same attitude you have when alone. When alone, maintain the same attitude you have in receiving guests. Watch what you say, and whatever you say, practice it. When an opportunity comes do not let it pass by, yet always think twice before acting. Do not regret the past. Look to the future. Have the fearless attitude of a hero and the loving heart of a child. Upon retiring, sleep as if you had entered your last sleep. Upon awakening, leave your bed behind you instantly as if you had cast away a pair of old shoes.
+--- КОАН 32 ---
+id: sleeping_in_the_daytime
+title: Sleeping in the Daytime
+text:
+The master Soyen Shaku passed from this world when he was sixty-one years of age. Fulfilling his life's work, he left a great teaching, far richer than that of most Zen masters. His pupils used to sleep in the daytime during midsummer, and while he overlooked this he himself never wasted a minute.
+When he was but twelve years old he was already studying Tendai philosophical speculation. One summer day the air had been so sultry that little Soyen stretched his legs and went to sleep while his teacher was away.
+Three hours passed when, suddenly waking, he heard his master enter, but it was too late. There he lay, sprawled across the doorway.
+"I beg your pardon, I beg your pardon," his teacher whispered, stepping carefully over Soyen's body as if it were that of some distinguished guest. After this, Soyen never slept again in the afternoon.
+--- КОАН 33 ---
+id: the_thief_left_the_moon
+title: Eshun's Departure
+text:
+When Eshun, the Zen nun, was past sixty and about to leave this world, she asked some monks to pile up wood in the yard.
+Seating herself firmly in the centre of the funeral pyre, she had it set fire around the edges.
+"O nun!" shouted one monk, "is it hot in there?"
+"Such a matter would concern only a stupid person like yourself," answered Eshun.
+The flames arose, and she passed away.
+--- КОАН 34 ---
+id: three_days_more
+title: Three Days More
+text:
+Suiwo, the disciple of Hakuin, was a good teacher. During one summer seclusion period, a pupil came to him from a southern island of Japan.
+Suiwo gave him the problem: "Hear the sound of one hand."
+The pupil remained three years but could not pass this test. One night he came in tears to Suiwo. "I must return south in shame and embarrassment," he said, "for I cannot solve my problem."
+"Wait one week more and meditate constantly," advised Suiwo. Still no enlightenment came to the pupil. "Try for another week," said Suiwo. The pupil obeyed, but in vain.
+"Still another week." Yet this was of no avail. In despair the student begged to be released, but Suiwo requested another meditation of five days. They were without result. Then he said: "Meditate for three days longer, then if you fail to attain enlightenment, you had better kill yourself."
+On the second day the pupil was enlightened.
+--- КОАН 35 ---
+id: trading_dialogue_for_lodging
+title: Trading Dialogue for Lodging
+text:
+Provided he makes and wins an argument about Buddhism with those who live there, any wandering monk can remain in a Zen temple. If he is defeated, he has to move on.
+In a temple in the northern part of Japan two brother monks were dwelling together. The elder one was learned, but the younger one was stupid and had but one eye.
+A wandering monk came and asked for lodging, properly challenging them to a debate about the sublime teaching. The elder brother, tired that day from much studying, told the younger one to take his place. "Go and request the dialogue in silence," he cautioned.
+So the young monk and the stranger went to the shrine and sat down. Shortly afterwards the traveler rose and went in to the elder brother and said: "Your young brother is a wonderful fellow. He defeated me."
+"Relate the dialogue to me," said the elder one.
+"Well," explained the traveler, "first I held up one finger, representing Buddha, the enlightened one. So he held up two fingers, signifying Buddha and his teaching. I held up three fingers, representing Buddha, his teaching, and his followers, living the harmonious life. Then he shook his clenched fist in my face, indicating that all three come from one realization. Thus he won and so I have no right to remain here." With this, the traveler left.
+"Where is that fellow?" asked the younger one, running in to his elder brother.
+"I understand you won the debate."
+"Won nothing. I'm going to beat him up."
+"Tell me the subject of the debate," asked the elder one.
+"Why, the minute he saw me he held up one finger, insulting me by insinuating that I have only one eye. Since he was a stranger I thought I would be polite to him, so I held up two fingers, congratulating him that he has two eyes. Then the impolite wretch held up three fingers, suggesting that between us we only have three eyes. So I got mad and started to punch him, but he ran out and that ended it!"
+
+
+ВІДПОВІДЬ — ТІЛЬКИ JSON. Без пояснень, без вступу. Формат:
+{"translations": [
+  {"id": "koan_id", "title_uk": "...", "text_uk": "..."},
+  ...
+]}
