@@ -17,10 +17,10 @@ import type { Koan, ResultRole, Selection } from '@/types';
  */
 
 export const WEIGHTS = {
-  weather: 3,
-  state: 3,
-  focus: 2,
-  depth: 2,
+  depth: 100,   // required-level — exact depth match
+  state: 50,    // strong influence
+  focus: 30,    // medium influence
+  weather: 15,  // subtle influence
 } as const;
 
 export interface ScoredKoan {
