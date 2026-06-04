@@ -287,6 +287,22 @@ h3:lang(ja) {
   display: block;
 }
 
+/* Draw-on reveal for the approved Enso artwork.
+   Animates stroke-dashoffset from full length to 0.
+   Easing feels like a hand completing a brush gesture. */
+@keyframes enso-reveal {
+  from {
+    stroke-dashoffset: 178;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.enso__path {
+  animation: enso-reveal 3.2s cubic-bezier(0.12, 0.72, 0.33, 1) both;
+}
+
 .ink-icon {
   width: 100%;
   height: 100%;
