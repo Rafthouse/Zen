@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "一瞬一瞬の禅",
+    "tagline": "古い教えを静かに読む。",
+    "begin": "はじめる"
+  },
+  "nav": {
+    "back": "もどる",
+    "next": "つぎへ",
+    "skip": "とばす",
+    "home": "ホーム",
+    "favorites": "お気に入り",
+    "startOver": "最初から",
+    "randomKoan": "無作為の教え",
+    "dailyKoan": "今日の教え"
+  },
+  "step": {
+    "counter": "{total} のうち {n} 番目"
+  },
+  "weather": {
+    "question": "心の天気",
+    "fog": "霧",
+    "rain": "雨",
+    "wind": "風",
+    "clear": "晴れ",
+    "storm": "嵐"
+  },
+  "state": {
+    "question": "今、何が起きていますか",
+    "searching": "探している",
+    "waiting": "待っている",
+    "struggling": "もがいている",
+    "losing": "失っている",
+    "finding": "見いだしている"
+  },
+  "focus": {
+    "question": "心はどこに向いていますか",
+    "myself": "自分",
+    "other": "他者",
+    "work": "仕事",
+    "future": "未来",
+    "past": "過去"
+  },
+  "depth": {
+    "question": "どれだけ読みますか",
+    "line": "一行",
+    "short": "短い話",
+    "koan": "公案ひとつ"
+  },
+  "results": {
+    "title": "三つの教え",
+    "see": "今あなたが見ているもの",
+    "unseen": "見えていないかもしれないもの",
+    "release": "手放してよいもの",
+    "empty": "応える教えがありませんでした。もう一度始めるか、無作為に読んでください。",
+    "open": "読む"
+  },
+  "koan": {
+    "by": "—",
+    "source": "出典",
+    "tradition": "伝統",
+    "original": "原文",
+    "translationUnavailable": "翻訳がありません — 英語で表示します。",
+    "addFavorite": "この教えを留める",
+    "removeFavorite": "この教えを手放す",
+    "back": "もどる"
+  },
+  "favorites": {
+    "title": "留めた教え",
+    "empty": "まだ何も留めていません。留めた教えはここに憩います。"
+  },
+  "theme": {
+    "toLight": "明るい",
+    "toDark": "暗い",
+    "label": "テーマを切り替える"
+  },
+  "language": {
+    "label": "言語"
+  }
+}

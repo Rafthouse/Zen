@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "Zen in Every Moment",
+    "tagline": "A quiet reader of old teachings.",
+    "begin": "Begin"
+  },
+  "nav": {
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "home": "Home",
+    "favorites": "Favorites",
+    "startOver": "Start over",
+    "randomKoan": "A random teaching",
+    "dailyKoan": "Teaching of the day"
+  },
+  "step": {
+    "counter": "Step {n} of {total}"
+  },
+  "weather": {
+    "question": "Inner weather",
+    "fog": "Fog",
+    "rain": "Rain",
+    "wind": "Wind",
+    "clear": "Clear sky",
+    "storm": "Storm"
+  },
+  "state": {
+    "question": "What is happening?",
+    "searching": "Searching",
+    "waiting": "Waiting",
+    "struggling": "Struggling",
+    "losing": "Losing",
+    "finding": "Finding"
+  },
+  "focus": {
+    "question": "Where is your attention?",
+    "myself": "Myself",
+    "other": "Another person",
+    "work": "Work",
+    "future": "The future",
+    "past": "The past"
+  },
+  "depth": {
+    "question": "How much will you read?",
+    "line": "One line",
+    "short": "A short story",
+    "koan": "A full koan"
+  },
+  "results": {
+    "title": "Three teachings",
+    "see": "What you see now",
+    "unseen": "What you may not see",
+    "release": "What may be released",
+    "empty": "No teaching answered. Begin again, or read one at random.",
+    "open": "Read"
+  },
+  "koan": {
+    "by": "by",
+    "source": "Source",
+    "tradition": "Tradition",
+    "original": "Original",
+    "translationUnavailable": "Translation unavailable — shown in English.",
+    "addFavorite": "Keep this teaching",
+    "removeFavorite": "Release this teaching",
+    "back": "Back"
+  },
+  "favorites": {
+    "title": "Kept teachings",
+    "empty": "Nothing kept yet. Teachings you keep will rest here."
+  },
+  "theme": {
+    "toLight": "Light",
+    "toDark": "Dark",
+    "label": "Switch theme"
+  },
+  "language": {
+    "label": "Language"
+  }
+}

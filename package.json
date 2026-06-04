@@ -1,0 +1,31 @@
+{
+  "name": "zen-in-every-moment",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A contemplative browser of authentic Zen koans and parables. Fully static, no backend, no AI.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit",
+    "validate:koans": "node scripts/validate-koans.mjs",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.6"
+  }
+}

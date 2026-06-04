@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "Le Zen à chaque instant",
+    "tagline": "Un lecteur paisible d'anciens enseignements.",
+    "begin": "Commencer"
+  },
+  "nav": {
+    "back": "Retour",
+    "next": "Suivant",
+    "skip": "Passer",
+    "home": "Accueil",
+    "favorites": "Favoris",
+    "startOver": "Recommencer",
+    "randomKoan": "Un enseignement au hasard",
+    "dailyKoan": "Enseignement du jour"
+  },
+  "step": {
+    "counter": "Étape {n} sur {total}"
+  },
+  "weather": {
+    "question": "Météo intérieure",
+    "fog": "Brouillard",
+    "rain": "Pluie",
+    "wind": "Vent",
+    "clear": "Ciel clair",
+    "storm": "Tempête"
+  },
+  "state": {
+    "question": "Que se passe-t-il ?",
+    "searching": "Chercher",
+    "waiting": "Attendre",
+    "struggling": "Lutter",
+    "losing": "Perdre",
+    "finding": "Trouver"
+  },
+  "focus": {
+    "question": "Où est votre attention ?",
+    "myself": "Moi-même",
+    "other": "Une autre personne",
+    "work": "Le travail",
+    "future": "L'avenir",
+    "past": "Le passé"
+  },
+  "depth": {
+    "question": "Combien lirez-vous ?",
+    "line": "Une ligne",
+    "short": "Une courte histoire",
+    "koan": "Un kōan complet"
+  },
+  "results": {
+    "title": "Trois enseignements",
+    "see": "Ce que vous voyez maintenant",
+    "unseen": "Ce que vous ne voyez peut-être pas",
+    "release": "Ce qui peut être lâché",
+    "empty": "Aucun enseignement n'a répondu. Recommencez, ou lisez-en un au hasard.",
+    "open": "Lire"
+  },
+  "koan": {
+    "by": "—",
+    "source": "Source",
+    "tradition": "Tradition",
+    "original": "Original",
+    "translationUnavailable": "Traduction indisponible — affiché en anglais.",
+    "addFavorite": "Garder cet enseignement",
+    "removeFavorite": "Relâcher cet enseignement",
+    "back": "Retour"
+  },
+  "favorites": {
+    "title": "Enseignements gardés",
+    "empty": "Rien de gardé pour l'instant. Ce que vous gardez reposera ici."
+  },
+  "theme": {
+    "toLight": "Clair",
+    "toDark": "Sombre",
+    "label": "Changer le thème"
+  },
+  "language": {
+    "label": "Langue"
+  }
+}

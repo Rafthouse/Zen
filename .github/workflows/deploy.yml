@@ -1,0 +1,57 @@
+# Builds the static site and publishes it to GitHub Pages.
+#
+# One-time setup in your repository: Settings → Pages → "Build and deployment"
+# → Source: "GitHub Actions". After that, every push to the default branch
+# deploys automatically. No secrets or tokens to configure.
+#
+# Because vite.config.ts uses a relative base ('./') and the app uses HashRouter,
+# this works under any path (https://<user>.github.io/<repo>/) with no extra config.
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+# Permissions the Pages deployment needs.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment; don't cancel an in-progress one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Fail the build if the corpus is malformed.
+      - run: npm run validate:koans
+
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
