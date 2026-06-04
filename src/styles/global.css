@@ -284,19 +284,7 @@ h3:lang(ja) {
 .enso {
   color: var(--accent);
   opacity: 0.9;
-}
-.enso path {
-  animation: draw-enso 2.4s var(--ease) forwards;
-}
-@keyframes draw-enso {
-  from {
-    stroke-dasharray: 1;
-    stroke-dashoffset: 1;
-  }
-  to {
-    stroke-dasharray: 1;
-    stroke-dashoffset: 0;
-  }
+  display: block;
 }
 
 .ink-icon {
