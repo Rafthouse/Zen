@@ -4,22 +4,28 @@ import type { ReactNode } from 'react';
  * A selectable "page card" used for every option in the flow. Rendered as a
  * real <button> so it is reachable by keyboard and announced correctly; the
  * selected state is conveyed via aria-pressed (not colour alone).
+ *
+ * `className` is forwarded so the caller can apply positional or layout
+ * classes (e.g. for the weather radial composition).
  */
 export default function OptionCard({
   label,
   icon,
   selected,
   onSelect,
+  className = '',
 }: {
   label: string;
   icon?: ReactNode;
   selected: boolean;
   onSelect: () => void;
+  /** Optional extra class(es) added alongside the base `option-card`. */
+  className?: string;
 }) {
   return (
     <button
       type="button"
-      className={`option-card${selected ? ' is-selected' : ''}`}
+      className={`option-card${selected ? ' is-selected' : ''}${className ? ' ' + className : ''}`}
       aria-pressed={selected}
       onClick={onSelect}
     >
